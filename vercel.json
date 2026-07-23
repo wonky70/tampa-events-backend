@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "snapshot/**"
+    }
+  },
+  "rewrites": [
+    { "source": "/", "destination": "/api/index" },
+    { "source": "/advertise", "destination": "/api/index" },
+    { "source": "/api/events", "destination": "/api/index" }
+  ]
+}

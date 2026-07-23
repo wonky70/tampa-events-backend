@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sunsets-at-pier-60",
+    "title": "Sunsets at Pier 60",
+    "description": "Free nightly sunset festival with artisans and street performers; weather permitting. Vendor purchases optional.",
+    "url": "https://www.sunsetsatpier60.com/",
+    "location": "Pier 60, Clearwater Beach",
+    "city": "Clearwater",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "days_of_week": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+    "source": "recurring"
+  }
+]

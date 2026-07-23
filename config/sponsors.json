@@ -1,0 +1,13 @@
+[
+  {
+    "id": "house-advertise",
+    "name": "Your business here",
+    "tagline": "Reach Tampa Bay locals actively planning where to go this week.",
+    "url": "/advertise",
+    "cta": "See ad options",
+    "tier": "featured",
+    "sponsored_label": "From Tampa Bay Free Events",
+    "cities": [],
+    "lanes": []
+  }
+]

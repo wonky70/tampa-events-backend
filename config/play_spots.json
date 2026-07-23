@@ -1,0 +1,75 @@
+{
+  "note": "Curated starting points for finding people to play Call of Duty, fighting games (Marvel vs Capcom, Street Fighter, Tekken), and other games with across Tampa Bay. Edit this file to add your own verified spots. Search links never go stale, so they are used where a specific venue or time can't be verified.",
+  "categories": [
+    {
+      "id": "fgc-meetups",
+      "title": "Fighting-game (FGC) meetups & casuals",
+      "blurb": "Weekly casuals and locals are usually free or a few dollars to enter. These search links surface the current Tampa Bay fighting-game community events.",
+      "spots": [
+        {
+          "name": "Tampa Bay FGC on Meetup",
+          "detail": "Find local fighting-game meetups (SF6, Tekken 8, MvC) and RSVP.",
+          "url": "https://www.meetup.com/find/?keywords=fighting%20game&location=us--fl--Tampa",
+          "cost": "Often free to attend"
+        },
+        {
+          "name": "r/Tampa & r/StPetersburgFL gaming threads",
+          "detail": "Locals post recurring game nights, LAN parties, and who's hosting.",
+          "url": "https://www.reddit.com/r/tampa/search/?q=fighting+games+OR+FGC+OR+smash&restrict_sr=1&sort=new",
+          "cost": "Free"
+        },
+        {
+          "name": "Start.gg Tampa Bay tournaments",
+          "detail": "Bracket hub for FGC events — filter by fighting games near Tampa.",
+          "url": "https://www.start.gg/tournaments?filter=%7B%22videogameIds%22%3A%5B%5D%2C%22location%22%3A%7B%22distanceFrom%22%3A%22Tampa%2C%20FL%22%2C%22distance%22%3A%2250mi%22%7D%7D",
+          "cost": "Varies (many free casuals)"
+        }
+      ]
+    },
+    {
+      "id": "cod-shooters",
+      "title": "Call of Duty / shooters & online squads",
+      "blurb": "For CoD and team shooters, the best 'in Tampa Bay' option is finding local squads online, plus in-person LAN nights when they pop up.",
+      "spots": [
+        {
+          "name": "Tampa gaming groups on Discord (Disboard)",
+          "detail": "Search Tampa/Florida Discord servers to find squads for Call of Duty and Warzone.",
+          "url": "https://disboard.org/search?keyword=tampa%20gaming",
+          "cost": "Free"
+        },
+        {
+          "name": "Meetup: Tampa gamers & LAN nights",
+          "detail": "General gaming meetups that often include shooters and console nights.",
+          "url": "https://www.meetup.com/find/?keywords=gaming&location=us--fl--Tampa",
+          "cost": "Often free"
+        }
+      ]
+    },
+    {
+      "id": "barcades",
+      "title": "Barcades & game bars (21+ hangouts)",
+      "blurb": "Great for meeting other players in person. Entry is usually free; individual games or drinks cost money, so these are not listed as free events.",
+      "spots": [
+        {
+          "name": "Find barcades near you",
+          "detail": "Google Maps live list of barcades and arcades around Tampa Bay with hours and reviews.",
+          "url": "https://www.google.com/maps/search/barcade+near+Tampa+FL",
+          "cost": "Free entry, pay per game"
+        }
+      ]
+    },
+    {
+      "id": "esports-venues",
+      "title": "Esports lounges & console cafes",
+      "blurb": "Pay-to-play PC and console lounges where you can drop in and find opponents.",
+      "spots": [
+        {
+          "name": "Find esports & gaming lounges near you",
+          "detail": "Live map of gaming lounges and internet cafes around Tampa Bay.",
+          "url": "https://www.google.com/maps/search/esports+lounge+near+Tampa+FL",
+          "cost": "Pay per hour"
+        }
+      ]
+    }
+  ]
+}

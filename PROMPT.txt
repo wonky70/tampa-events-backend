@@ -1,0 +1,36 @@
+The working backend is public here:
+  https://github.com/wonky70/tampa-events-backend
+Direct download (zip):
+  https://github.com/wonky70/tampa-events-backend/archive/refs/heads/main.zip
+
+Clone or download that repo. It is a complete, working engine that scrapes and
+verifies free / no-cover Tampa Bay events and serves them as JSON at:
+
+    GET /api/events?date=YYYY-MM-DD&days=1&search=0
+
+The repo has NO user interface — that was removed on purpose. Do NOT look for or
+reuse any existing design; there is none. Build a brand-new UI from scratch, your
+own design, that fetches this endpoint and renders the events.
+
+Keep and reuse everything server-side exactly as shipped: the Python
+event-collection engine, the /api/events endpoint, the scheduled snapshot job
+that refreshes data daily, and the serverless (Vercel) setup. Only add the
+presentation layer (HTML/CSS/JS).
+
+Read README_HANDOFF.md in the repo for the full API contract (every field each
+event returns) and the hard rules. In short:
+
+- Never show a paid or sold-out event as free. If an event's needs_review is
+  true, don't present it as confirmed free. Keep search=0 so only verified
+  events load.
+- Don't hide real free events — show everything confirmed the API returns.
+- Must load instantly (the endpoint already serves cached data — just fetch it).
+- Plain English, no jargon; usable by all ages. Every control self-explanatory.
+  Clean, not overwhelming.
+- Each event links out to its `url` source page.
+- Include simple, clearly-priced advertising placements for local businesses
+  using the `sponsors` data, plus a page explaining ad options.
+- Deployable on Vercel + Cloudflare at tampabayfreeevents.com, with the daily
+  refresh running automatically (no terminal needed to keep it live).
+
+Design the whole interface yourself. There is nothing to copy.

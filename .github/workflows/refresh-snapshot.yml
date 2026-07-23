@@ -1,0 +1,64 @@
+name: Refresh events snapshot
+
+# Rebuilds snapshot/latest.json on a schedule so /api/events serves fresh,
+# instant results. Commits the snapshot back to the repo and (optionally)
+# redeploys to Vercel.
+#
+# One-time setup for automatic deploys — add these repo secrets
+# (Settings → Secrets and variables → Actions):
+#   VERCEL_TOKEN       — https://vercel.com/account/tokens
+#   VERCEL_ORG_ID      — from `.vercel/project.json` ("orgId")
+#   VERCEL_PROJECT_ID  — from `.vercel/project.json` ("projectId")
+# Without VERCEL_TOKEN the snapshot is still committed; it deploys on the next
+# push if the Vercel project is Git-connected, or on the next `vercel --prod`.
+#
+# NOTE: scheduled workflows only run from the repository's DEFAULT branch, so
+# this file must reach `main` for the cron to fire.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-snapshot
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build snapshot
+        run: python scripts/build_snapshot.py --days 9
+
+      - name: Commit snapshot if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain snapshot/latest.json)" ]; then
+            git add snapshot/latest.json
+            git commit -m "chore: refresh events snapshot"
+            git push
+          else
+            echo "Snapshot unchanged."
+          fi
+
+      - name: Deploy to Vercel
+        if: ${{ env.VERCEL_TOKEN != '' }}
+        run: |
+          npm i -g vercel@latest
+          vercel pull --yes --environment=production --token="$VERCEL_TOKEN"
+          vercel deploy --prod --yes --token="$VERCEL_TOKEN"
