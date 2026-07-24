@@ -13581,48 +13581,6 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Teen Stay & Play Sneaker Ball 27.9542613, -82.4663096 Lawrence H. Thu, 06/04/2026 - 01:40 pm Event Status Scheduled Attachments Group photo from Sneaker Ball When Sat, Jul 25 2026 , 7 - 11pm Add to Calendar Google...",
-      "end": "2026-07-26T03:00:00+00:00",
-      "id": "city-of-tampa-621c9efed5edc0ce",
-      "latitude": null,
-      "location": "Tampa",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "full_text": "Teen Stay & Play Sneaker Ball 27.9542613, -82.4663096 Lawrence H. Thu, 06/04/2026 - 01:40 pm Event Status Scheduled Attachments Group photo from Sneaker Ball When Sat, Jul 25 2026 , 7 - 11pm Add to Calendar Google Outlook iCal Show up in your most comfortable, or show out in your best. Music, dancing, free food, lots of fun. Free event. Rec Card - also free - required. Get Directions Bob Buckhorn River Center 402 W Laurel St. Tampa , FL 33607 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Attendance Mode In-Person (Offline) Event Neighborhood Julian B Lane Riverfront Park Free/Open to the public? Yes Event Links Stay & Play homepage Rec Card (free for teens) Attendance (Est./Max) 150 Event Collection Neighborhood Events Parks & Recreation Pre-registration Required No"
-      },
-      "source": "City of Tampa",
-      "source_kind": "event",
-      "start": "2026-07-25T23:00:00+00:00",
-      "title": "Teen Stay & Play Sneaker Ball",
-      "url": "https://www.tampa.gov/events/teen-stay-play-sneaker-ball/191411"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "The Rock Church of God By Faith Annual Back to School Bash 27.9992512, -82.4084512 WebformCreator (Bot) Tue, 06/30/2026 - 09:01 pm Event Status Scheduled Attachments the-rockcogbfb2sflyer070326.jpg When Sat, Jul 25...",
-      "end": "2026-07-25T17:00:00+00:00",
-      "id": "city-of-tampa-7e550a608d761fe3",
-      "latitude": null,
-      "location": "Tampa",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "full_text": "The Rock Church of God By Faith Annual Back to School Bash 27.9992512, -82.4084512 WebformCreator (Bot) Tue, 06/30/2026 - 09:01 pm Event Status Scheduled Attachments the-rockcogbfb2sflyer070326.jpg When Sat, Jul 25 2026 , 10am - 1pm Add to Calendar Google Outlook iCal The Rock Church of God by Faith \u2013 Back to School Bash July 25th \u2022 10:00 AM \u2013 1:00 PM | 4323 East Henry Avenue, Tampa, FL 33610 Get ready for a fun and family\u2011friendly Back to School Bash at The Rock Church of God By Faith! We\u2019re blessing our community with free backpacks filled with school supplies , free haircuts , a bounce house , games , food , music , vendors , and exciting giveaways throughout the event. Each family will also receive one non\u2011perishable food box \u2014 while supplies last . \"Register today by scanning the QR code on the event flyer.\" Everything is free (while supplies last), open to the public, and designed to help students start the school year strong. Get Directions 4323 E Henry Avenue Tampa , FL 33610 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: Kids, Youth and Family Fundraisers and Charities Learning and Development Food and Drink Event Attendance Mode In-Person (Offline) Event Neighborhood Northeast Community Crimewatch & Civic Association Free/Open to the public? Yes Event Collection Neighborhood Events Pre-registration Required No"
-      },
-      "source": "City of Tampa",
-      "source_kind": "event",
-      "start": "2026-07-25T14:00:00+00:00",
-      "title": "The Rock Church of God By Faith Annual Back to School Bash",
-      "url": "https://www.tampa.gov/events/rock-church-god-faith-annual-back-school-bash/192361"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
       "description": "Mayor's Neighborhood University Saturday Session - Software Saturday 28.0022796, -82.4311244 WebformCreator (Bot) Mon, 07/13/2026 - 11:35 am Event Status Scheduled Attachments ea184db5-e251-4364-b824-1adfec350060.png...",
       "end": "2026-07-25T16:00:00+00:00",
       "id": "city-of-tampa-3078ab589b1a8c6e",
@@ -13659,6 +13617,48 @@
       "start": "2026-07-25T14:00:00+00:00",
       "title": "FMoPA's 25th Anniversary Celebration",
       "url": "https://www.tampa.gov/events/fmopas-25th-anniversary-celebration/192061"
+    },
+    {
+      "all_day": false,
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Included only for public meetings or free-marked official listings",
+      "description": "The Rock Church of God By Faith Annual Back to School Bash 27.9992512, -82.4084512 WebformCreator (Bot) Tue, 06/30/2026 - 09:01 pm Event Status Scheduled Attachments the-rockcogbfb2sflyer070326.jpg When Sat, Jul 25...",
+      "end": "2026-07-25T17:00:00+00:00",
+      "id": "city-of-tampa-7e550a608d761fe3",
+      "latitude": null,
+      "location": "Tampa",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "full_text": "The Rock Church of God By Faith Annual Back to School Bash 27.9992512, -82.4084512 WebformCreator (Bot) Tue, 06/30/2026 - 09:01 pm Event Status Scheduled Attachments the-rockcogbfb2sflyer070326.jpg When Sat, Jul 25 2026 , 10am - 1pm Add to Calendar Google Outlook iCal The Rock Church of God by Faith \u2013 Back to School Bash July 25th \u2022 10:00 AM \u2013 1:00 PM | 4323 East Henry Avenue, Tampa, FL 33610 Get ready for a fun and family\u2011friendly Back to School Bash at The Rock Church of God By Faith! We\u2019re blessing our community with free backpacks filled with school supplies , free haircuts , a bounce house , games , food , music , vendors , and exciting giveaways throughout the event. Each family will also receive one non\u2011perishable food box \u2014 while supplies last . \"Register today by scanning the QR code on the event flyer.\" Everything is free (while supplies last), open to the public, and designed to help students start the school year strong. Get Directions 4323 E Henry Avenue Tampa , FL 33610 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: Kids, Youth and Family Fundraisers and Charities Learning and Development Food and Drink Event Attendance Mode In-Person (Offline) Event Neighborhood Northeast Community Crimewatch & Civic Association Free/Open to the public? Yes Event Collection Neighborhood Events Pre-registration Required No"
+      },
+      "source": "City of Tampa",
+      "source_kind": "event",
+      "start": "2026-07-25T14:00:00+00:00",
+      "title": "The Rock Church of God By Faith Annual Back to School Bash",
+      "url": "https://www.tampa.gov/events/rock-church-god-faith-annual-back-school-bash/192361"
+    },
+    {
+      "all_day": false,
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Included only for public meetings or free-marked official listings",
+      "description": "Teen Stay & Play Sneaker Ball 27.9542613, -82.4663096 Lawrence H. Thu, 06/04/2026 - 01:40 pm Event Status Scheduled Attachments Group photo from Sneaker Ball When Sat, Jul 25 2026 , 7 - 11pm Add to Calendar Google...",
+      "end": "2026-07-26T03:00:00+00:00",
+      "id": "city-of-tampa-621c9efed5edc0ce",
+      "latitude": null,
+      "location": "Tampa",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "full_text": "Teen Stay & Play Sneaker Ball 27.9542613, -82.4663096 Lawrence H. Thu, 06/04/2026 - 01:40 pm Event Status Scheduled Attachments Group photo from Sneaker Ball When Sat, Jul 25 2026 , 7 - 11pm Add to Calendar Google Outlook iCal Show up in your most comfortable, or show out in your best. Music, dancing, free food, lots of fun. Free event. Rec Card - also free - required. Get Directions Bob Buckhorn River Center 402 W Laurel St. Tampa , FL 33607 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Attendance Mode In-Person (Offline) Event Neighborhood Julian B Lane Riverfront Park Free/Open to the public? Yes Event Links Stay & Play homepage Rec Card (free for teens) Attendance (Est./Max) 150 Event Collection Neighborhood Events Parks & Recreation Pre-registration Required No"
+      },
+      "source": "City of Tampa",
+      "source_kind": "event",
+      "start": "2026-07-25T23:00:00+00:00",
+      "title": "Teen Stay & Play Sneaker Ball",
+      "url": "https://www.tampa.gov/events/teen-stay-play-sneaker-ball/191411"
     },
     {
       "all_day": false,
@@ -13728,21 +13728,21 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Live Oaks Square Neighborhood Watch Monthly Meeting 28.0022796, -82.4311244 WebformCreator (Bot) Thu, 07/09/2026 - 04:55 pm Event Status Scheduled When Tue, Jul 28 2026 , 6:30 - 8pm Add to Calendar Google Outlook iCal...",
-      "end": "2026-07-29T00:00:00+00:00",
-      "id": "city-of-tampa-e269a43ff3f651b9",
+      "description": "Charter Review Commission Meeting 27.9476546, -82.4572297 Karencia C. Fri, 01/23/2026 - 05:11 pm Event Status Scheduled When Tue, Jul 28 2026 , 6pm Add to Calendar Google Outlook iCal CHARTER REVIEW ADVISORY...",
+      "end": null,
+      "id": "city-of-tampa-42f3d8967d20badb",
       "latitude": null,
       "location": "Tampa",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "full_text": "Live Oaks Square Neighborhood Watch Monthly Meeting 28.0022796, -82.4311244 WebformCreator (Bot) Thu, 07/09/2026 - 04:55 pm Event Status Scheduled When Tue, Jul 28 2026 , 6:30 - 8pm Add to Calendar Google Outlook iCal The LOSNA Monthly Meeting will be held on Tuesday, July 28th, 2026. Please come out to learn how you can help your community association grow and stay informed about what's going on in your community. Get Directions 2555 Hanna Avenue Tampa , FL 33610 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: Neighborhood Meetings and Outreach Event Attendance Mode In-Person (Offline) Event Neighborhood Seminole Heights East Free/Open to the public? Yes Event Collection Neighborhood Events Pre-registration Required No"
+        "full_text": "Charter Review Commission Meeting 27.9476546, -82.4572297 Karencia C. Fri, 01/23/2026 - 05:11 pm Event Status Scheduled When Tue, Jul 28 2026 , 6pm Add to Calendar Google Outlook iCal CHARTER REVIEW ADVISORY COMMISSION MEETING Date: Tuesday, July 28, 2026 Time: 6:00pm to 9:00pm Location: Old City Hall \u2013 Sister Cities Room 315 East Kennedy Boulevard Tampa, Florida 33602 Facilitator Robert Hendrickson will facilitate meetings of the 2025 Charter Review Advisory Commission. The commission\u2019s purpose is to review the Tampa Home Rule Charter of 1975, as amended, and propose any amendments or revisions by majority vote of the Commission, and present a report with their recommendations to City Council, which may by two-thirds vote of City Council be placed on the ballot for a vote on March 2, 2027. Meetings are scheduled monthly for the 2 nd and 4 th Tuesday. Get Directions Tampa Old City Hall - Sister Cities Room 315 East Kennedy Boulevard Tampa , FL 33602 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Tampa Downtown Partnership Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No Contact Information Contact: Karencia Ciagala at (813) 274-8397 Karencia.ciagala@tampagov.net"
       },
       "source": "City of Tampa",
       "source_kind": "event",
-      "start": "2026-07-28T22:30:00+00:00",
-      "title": "Live Oaks Square Neighborhood Watch Monthly Meeting",
-      "url": "https://www.tampa.gov/events/live-oaks-square-neighborhood-watch-monthly-meeting/192626"
+      "start": "2026-07-28T22:00:00+00:00",
+      "title": "Charter Review Commission Meeting",
+      "url": "https://www.tampa.gov/events/charter-review-commission-meeting/180086"
     },
     {
       "all_day": false,
@@ -13770,21 +13770,21 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Charter Review Commission Meeting 27.9476546, -82.4572297 Karencia C. Fri, 01/23/2026 - 05:11 pm Event Status Scheduled When Tue, Jul 28 2026 , 6pm Add to Calendar Google Outlook iCal CHARTER REVIEW ADVISORY...",
-      "end": null,
-      "id": "city-of-tampa-42f3d8967d20badb",
+      "description": "Live Oaks Square Neighborhood Watch Monthly Meeting 28.0022796, -82.4311244 WebformCreator (Bot) Thu, 07/09/2026 - 04:55 pm Event Status Scheduled When Tue, Jul 28 2026 , 6:30 - 8pm Add to Calendar Google Outlook iCal...",
+      "end": "2026-07-29T00:00:00+00:00",
+      "id": "city-of-tampa-e269a43ff3f651b9",
       "latitude": null,
       "location": "Tampa",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "full_text": "Charter Review Commission Meeting 27.9476546, -82.4572297 Karencia C. Fri, 01/23/2026 - 05:11 pm Event Status Scheduled When Tue, Jul 28 2026 , 6pm Add to Calendar Google Outlook iCal CHARTER REVIEW ADVISORY COMMISSION MEETING Date: Tuesday, July 28, 2026 Time: 6:00pm to 9:00pm Location: Old City Hall \u2013 Sister Cities Room 315 East Kennedy Boulevard Tampa, Florida 33602 Facilitator Robert Hendrickson will facilitate meetings of the 2025 Charter Review Advisory Commission. The commission\u2019s purpose is to review the Tampa Home Rule Charter of 1975, as amended, and propose any amendments or revisions by majority vote of the Commission, and present a report with their recommendations to City Council, which may by two-thirds vote of City Council be placed on the ballot for a vote on March 2, 2027. Meetings are scheduled monthly for the 2 nd and 4 th Tuesday. Get Directions Tampa Old City Hall - Sister Cities Room 315 East Kennedy Boulevard Tampa , FL 33602 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Tampa Downtown Partnership Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No Contact Information Contact: Karencia Ciagala at (813) 274-8397 Karencia.ciagala@tampagov.net"
+        "full_text": "Live Oaks Square Neighborhood Watch Monthly Meeting 28.0022796, -82.4311244 WebformCreator (Bot) Thu, 07/09/2026 - 04:55 pm Event Status Scheduled When Tue, Jul 28 2026 , 6:30 - 8pm Add to Calendar Google Outlook iCal The LOSNA Monthly Meeting will be held on Tuesday, July 28th, 2026. Please come out to learn how you can help your community association grow and stay informed about what's going on in your community. Get Directions 2555 Hanna Avenue Tampa , FL 33610 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: Neighborhood Meetings and Outreach Event Attendance Mode In-Person (Offline) Event Neighborhood Seminole Heights East Free/Open to the public? Yes Event Collection Neighborhood Events Pre-registration Required No"
       },
       "source": "City of Tampa",
       "source_kind": "event",
-      "start": "2026-07-28T22:00:00+00:00",
-      "title": "Charter Review Commission Meeting",
-      "url": "https://www.tampa.gov/events/charter-review-commission-meeting/180086"
+      "start": "2026-07-28T22:30:00+00:00",
+      "title": "Live Oaks Square Neighborhood Watch Monthly Meeting",
+      "url": "https://www.tampa.gov/events/live-oaks-square-neighborhood-watch-monthly-meeting/192626"
     },
     {
       "all_day": false,
@@ -13806,6 +13806,27 @@
       "start": "2026-07-29T23:00:00+00:00",
       "title": "Teen Stay & Play Culinary Class",
       "url": "https://www.tampa.gov/events/teen-stay-play-culinary-class/191361"
+    },
+    {
+      "all_day": false,
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Included only for public meetings or free-marked official listings",
+      "description": "City Council Regular Agenda 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 08:01 am Event Status Scheduled When Thu, Jul 30 2026 , 9am Add to Calendar Google Outlook iCal NOTICE OF PUBLIC MEETING TAMPA CITY...",
+      "end": null,
+      "id": "city-of-tampa-22722e1fc3c3be00",
+      "latitude": null,
+      "location": "Tampa",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "full_text": "City Council Regular Agenda 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 08:01 am Event Status Scheduled When Thu, Jul 30 2026 , 9am Add to Calendar Google Outlook iCal NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL REGULAR AGENDA Date: Thursday, July 30, 2026 Time: 9:00 AM Location: Old City Hall 315 E. Kennedy Blvd. Tampa FL 33602 Agenda: https://tampa.gov/agendas The public and citizens of the City of Tampa will be able to watch, listen or view this meeting on: Cable TV: Spectrum Channel 640 Frontier Channel 15 Internet: https://www.tampa.gov/livestream Members of the public can attend in person in City Council chambers in Old City Hall or virtually participate in this public meeting by using what is referred to by State of Florida statutes and rules as \"communications media technology\" (\"CMT\"). TO SPEAK REMOTELY DURING PUBLIC COMMENT WITH THE USE OF CMT PRE-REGISTRATION IS REQUIRED : Complete the form at https://www.tampa.gov/PublicComment AND state on the form under \"Request Type\" that you wish to speak live during the public comment period. You will then be contacted with additional instructions on how to participate live through the use of CMT. Registration for speaking remotely must be requested at least 24 hours prior to the meeting. TO PARTICIPATE REMOTELY IN PUBLIC HEARINGS USING CMT PRE-REGISTRATION IS REQUIRED: Comments specific to a public hearing will be heard when it appears on the agenda. Instructions for participating in quasi-judicial and legislative public hearings are available at: https://www.tampa.gov/document/instructions-participate-virtual-public-hearing-34621 Please note: In order to participate in quasi-judicial matters remotely via CMT, cell phones and smartphones are not compatible as they will not allow you to share your camera when connected. You must have access to a communications media device such as a tablet or a computer equipped with a camera and microphone that will enable you to be seen (video) and heard (audio) by the City Council and all other participants. Persons requiring help in accessing these means of public participation should call 813-274-8397 for assistance . Should any person desire to appeal any decision of the Tampa City Council with respect to any matter to be considered at this meeting, that person shall ensure that a verbatim record of the proceeding is made including all testimony and evidence upon which any appeal may be based ( F.S. 286.0105 ). In accordance with the Americans with..."
+      },
+      "source": "City of Tampa",
+      "source_kind": "event",
+      "start": "2026-07-30T13:00:00+00:00",
+      "title": "City Council Regular Agenda",
+      "url": "https://www.tampa.gov/events/city-council-regular-agenda/192986"
     },
     {
       "all_day": false,
@@ -14063,7 +14084,7 @@
       "url": "https://www.sunsetsatpier60.com/"
     }
   ],
-  "generated_at": "2026-07-24T04:25:34.072230-04:00",
+  "generated_at": "2026-07-24T09:41:16.817281-04:00",
   "include_search": true,
   "start": "2026-07-24",
   "statuses": [
@@ -14306,7 +14327,7 @@
       "url": "https://www.tampasdowntown.com/all-events/"
     },
     {
-      "count": 18,
+      "count": 19,
       "message": "Parsed calendar RSS",
       "ok": true,
       "source": "City of Tampa",
