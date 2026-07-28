@@ -332,27 +332,6 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Join us for a discussion of Beautiful by Alice Feeney.",
-      "end": "2026-07-28T11:30:00+00:00",
-      "id": "hillsborough-libraries-15967579",
-      "latitude": null,
-      "location": "Jimmie B. Keel Regional Library, Innovation Studio",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "15967579"
-      },
-      "source": "Hillsborough libraries",
-      "source_kind": "library",
-      "start": "2026-07-28T10:30:00+00:00",
-      "title": "Book Discussion : Beautiful Ugly ",
-      "url": "https://hcplc.libnet.info/event/15967579"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Join Ms. Erin for 30 minutes of interactive stories, music, and movement. For children ages 2-5 (siblings welcome) with their caregiver.",
       "end": "2026-07-28T11:00:00+00:00",
       "id": "hillsborough-libraries-16969042",
@@ -2069,27 +2048,6 @@
       "start": "2026-07-29T16:00:00+00:00",
       "title": "Shields Up!: A Look in History",
       "url": "https://hcplc.libnet.info/event/15953142"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Join us for a discussion of Beautiful by Alice Feeney.",
-      "end": "2026-07-29T19:00:00+00:00",
-      "id": "hillsborough-libraries-15967580",
-      "latitude": null,
-      "location": "Jimmie B. Keel Regional Library, Community Room A & B",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "15967580"
-      },
-      "source": "Hillsborough libraries",
-      "source_kind": "library",
-      "start": "2026-07-29T18:00:00+00:00",
-      "title": "Book Discussion : Beautiful Ugly ",
-      "url": "https://hcplc.libnet.info/event/15967580"
     },
     {
       "all_day": false,
@@ -4379,6 +4337,27 @@
       "start": "2026-08-03T11:00:00+00:00",
       "title": "Toddler Time",
       "url": "https://hcplc.libnet.info/event/16089272"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Unleash your inner artist in Print 'n' Stitch, a unique workshop where the art of printmaking meets the craft of embroidery.",
+      "end": "2026-08-03T13:00:00+00:00",
+      "id": "hillsborough-libraries-17050134",
+      "latitude": null,
+      "location": "Ruskin Branch Library, Pauline Dickman Lawler Community Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "17050134"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-03T11:00:00+00:00",
+      "title": "Tampa Museum of Arts : Studio 55: Print 'n' Stitch: Stories in Ink & Thread ",
+      "url": "https://hcplc.libnet.info/event/17050134"
     },
     {
       "all_day": false,
@@ -13307,27 +13286,6 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Teen Stay & Play Girls Flag Football 27.978388, -82.4231306 Lawrence H. Wed, 06/03/2026 - 12:04 pm Event Status Scheduled Attachments Jackson Heights Recreation Center field When Tue, Jul 28 2026 , 6:30 - 9:30pm Add...",
-      "end": "2026-07-29T01:30:00+00:00",
-      "id": "city-of-tampa-a7fcb05b58e47681",
-      "latitude": null,
-      "location": "Tampa",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "full_text": "Teen Stay & Play Girls Flag Football 27.978388, -82.4231306 Lawrence H. Wed, 06/03/2026 - 12:04 pm Event Status Scheduled Attachments Jackson Heights Recreation Center field When Tue, Jul 28 2026 , 6:30 - 9:30pm Add to Calendar Google Outlook iCal Teen Stay & Play girls flag football game. Event is free. Rec Card - also free - is required. Get Directions Jackson Heights Recreation Center 3310 E Lake Ave. Tampa , FL 33610 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Attendance Mode In-Person (Offline) Event Neighborhood Jackson Heights Free/Open to the public? Yes Event Links Teen Stay & Play homepage Free Teen Rec Card Attendance (Est./Max) 25 Event Collection Neighborhood Events Parks & Recreation Pre-registration Required No Contact Information 813-242-5346"
-      },
-      "source": "City of Tampa",
-      "source_kind": "event",
-      "start": "2026-07-28T22:30:00+00:00",
-      "title": "Teen Stay & Play Girls Flag Football",
-      "url": "https://www.tampa.gov/events/teen-stay-play-girls-flag-football/191281"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
       "description": "Charter Review Commission Meeting 27.9476546, -82.4572297 Karencia C. Fri, 01/23/2026 - 05:11 pm Event Status Scheduled When Tue, Jul 28 2026 , 6pm Add to Calendar Google Outlook iCal CHARTER REVIEW ADVISORY...",
       "end": null,
       "id": "city-of-tampa-42f3d8967d20badb",
@@ -13343,6 +13301,27 @@
       "start": "2026-07-28T22:00:00+00:00",
       "title": "Charter Review Commission Meeting",
       "url": "https://www.tampa.gov/events/charter-review-commission-meeting/180086"
+    },
+    {
+      "all_day": false,
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Included only for public meetings or free-marked official listings",
+      "description": "Teen Stay & Play Girls Flag Football 27.978388, -82.4231306 Lawrence H. Wed, 06/03/2026 - 12:04 pm Event Status Scheduled Attachments Jackson Heights Recreation Center field When Tue, Jul 28 2026 , 6:30 - 9:30pm Add...",
+      "end": "2026-07-29T01:30:00+00:00",
+      "id": "city-of-tampa-a7fcb05b58e47681",
+      "latitude": null,
+      "location": "Tampa",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "full_text": "Teen Stay & Play Girls Flag Football 27.978388, -82.4231306 Lawrence H. Wed, 06/03/2026 - 12:04 pm Event Status Scheduled Attachments Jackson Heights Recreation Center field When Tue, Jul 28 2026 , 6:30 - 9:30pm Add to Calendar Google Outlook iCal Teen Stay & Play girls flag football game. Event is free. Rec Card - also free - is required. Get Directions Jackson Heights Recreation Center 3310 E Lake Ave. Tampa , FL 33610 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Attendance Mode In-Person (Offline) Event Neighborhood Jackson Heights Free/Open to the public? Yes Event Links Teen Stay & Play homepage Free Teen Rec Card Attendance (Est./Max) 25 Event Collection Neighborhood Events Parks & Recreation Pre-registration Required No Contact Information 813-242-5346"
+      },
+      "source": "City of Tampa",
+      "source_kind": "event",
+      "start": "2026-07-28T22:30:00+00:00",
+      "title": "Teen Stay & Play Girls Flag Football",
+      "url": "https://www.tampa.gov/events/teen-stay-play-girls-flag-football/191281"
     },
     {
       "all_day": false,
@@ -13370,21 +13349,21 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Goal Setting Committee: Subcontracts 27.9516896, -82.4587527 Charline S. Wed, 06/17/2026 - 02:10 pm Event Status Scheduled When Thu, Jul 30 2026 , 3pm Add to Calendar Google Outlook iCal Public Meeting Notice GOAL...",
+      "description": "City Council Regular Agenda 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 08:01 am Event Status Scheduled When Thu, Jul 30 2026 , 9am Add to Calendar Google Outlook iCal NOTICE OF PUBLIC MEETING TAMPA CITY...",
       "end": null,
-      "id": "city-of-tampa-0507ba7c630cd8d7",
+      "id": "city-of-tampa-22722e1fc3c3be00",
       "latitude": null,
       "location": "Tampa",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "full_text": "Goal Setting Committee: Subcontracts 27.9516896, -82.4587527 Charline S. Wed, 06/17/2026 - 02:10 pm Event Status Scheduled When Thu, Jul 30 2026 , 3pm Add to Calendar Google Outlook iCal Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Time & Date: 3:00 P.M. Thursday, June 25, 2026 3:00 P.M. Thursday, July 2, 2026 3:00 P.M. Thursday, July 16, 2026 3:00 P.M. Thursday, July 23, 2026 3:00 P.M. Thursday, July 30, 2026 Location: 2nd Floor, Trophy Case Conference Room Hanna Avenue City Center 2555 E. Hanna Avenue Tampa, FL 33610 Topic: To review projects eligible for application of subcontract participation goals pursuant to the City of Tampa\u2019s Equal Business Opportunity Program. Contact: Jose Valdez at 813-274-5543 or Jose.Valdez@tampagov.net Note: All meetings are open to the public. Any person who decides to appeal any decision made with respect to any matter considered at this public hearing or meeting are advised, in accordance with Section 286.0105, Florida Statutes, that they will need a record of the proceedings, and for such purpose may need to hire a court reporter to ensure that a verbatim record of the proceeding is made, which record includes the testimony and evidence upon which the appeal is to be based. Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
+        "full_text": "City Council Regular Agenda 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 08:01 am Event Status Scheduled When Thu, Jul 30 2026 , 9am Add to Calendar Google Outlook iCal NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL REGULAR AGENDA Date: Thursday, July 30, 2026 Time: 9:00 AM Location: Old City Hall 315 E. Kennedy Blvd. Tampa FL 33602 Agenda: https://tampa.gov/agendas The public and citizens of the City of Tampa will be able to watch, listen or view this meeting on: Cable TV: Spectrum Channel 640 Frontier Channel 15 Internet: https://www.tampa.gov/livestream Members of the public can attend in person in City Council chambers in Old City Hall or virtually participate in this public meeting by using what is referred to by State of Florida statutes and rules as \"communications media technology\" (\"CMT\"). TO SPEAK REMOTELY DURING PUBLIC COMMENT WITH THE USE OF CMT PRE-REGISTRATION IS REQUIRED : Complete the form at https://www.tampa.gov/PublicComment AND state on the form under \"Request Type\" that you wish to speak live during the public comment period. You will then be contacted with additional instructions on how to participate live through the use of CMT. Registration for speaking remotely must be requested at least 24 hours prior to the meeting. TO PARTICIPATE REMOTELY IN PUBLIC HEARINGS USING CMT PRE-REGISTRATION IS REQUIRED: Comments specific to a public hearing will be heard when it appears on the agenda. Instructions for participating in quasi-judicial and legislative public hearings are available at: https://www.tampa.gov/document/instructions-participate-virtual-public-hearing-34621 Please note: In order to participate in quasi-judicial matters remotely via CMT, cell phones and smartphones are not compatible as they will not allow you to share your camera when connected. You must have access to a communications media device such as a tablet or a computer equipped with a camera and microphone that will enable you to be seen (video) and heard (audio) by the City Council and all other participants. Persons requiring help in accessing these means of public participation should call 813-274-8397 for assistance . Should any person desire to appeal any decision of the Tampa City Council with respect to any matter to be considered at this meeting, that person shall ensure that a verbatim record of the proceeding is made including all testimony and evidence upon which any appeal may be based ( F.S. 286.0105 ). In accordance with the Americans with..."
       },
       "source": "City of Tampa",
       "source_kind": "event",
-      "start": "2026-07-30T19:00:00+00:00",
-      "title": "Goal Setting Committee: Subcontracts",
-      "url": "https://www.tampa.gov/events/goal-setting-committee-subcontracts/191826"
+      "start": "2026-07-30T13:00:00+00:00",
+      "title": "City Council Regular Agenda",
+      "url": "https://www.tampa.gov/events/city-council-regular-agenda/192986"
     },
     {
       "all_day": false,
@@ -13412,21 +13391,21 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "City Council Regular Agenda 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 08:01 am Event Status Scheduled When Thu, Jul 30 2026 , 9am Add to Calendar Google Outlook iCal NOTICE OF PUBLIC MEETING TAMPA CITY...",
+      "description": "Goal Setting Committee: Subcontracts 27.9516896, -82.4587527 Charline S. Wed, 06/17/2026 - 02:10 pm Event Status Scheduled When Thu, Jul 30 2026 , 3pm Add to Calendar Google Outlook iCal Public Meeting Notice GOAL...",
       "end": null,
-      "id": "city-of-tampa-22722e1fc3c3be00",
+      "id": "city-of-tampa-0507ba7c630cd8d7",
       "latitude": null,
       "location": "Tampa",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "full_text": "City Council Regular Agenda 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 08:01 am Event Status Scheduled When Thu, Jul 30 2026 , 9am Add to Calendar Google Outlook iCal NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL REGULAR AGENDA Date: Thursday, July 30, 2026 Time: 9:00 AM Location: Old City Hall 315 E. Kennedy Blvd. Tampa FL 33602 Agenda: https://tampa.gov/agendas The public and citizens of the City of Tampa will be able to watch, listen or view this meeting on: Cable TV: Spectrum Channel 640 Frontier Channel 15 Internet: https://www.tampa.gov/livestream Members of the public can attend in person in City Council chambers in Old City Hall or virtually participate in this public meeting by using what is referred to by State of Florida statutes and rules as \"communications media technology\" (\"CMT\"). TO SPEAK REMOTELY DURING PUBLIC COMMENT WITH THE USE OF CMT PRE-REGISTRATION IS REQUIRED : Complete the form at https://www.tampa.gov/PublicComment AND state on the form under \"Request Type\" that you wish to speak live during the public comment period. You will then be contacted with additional instructions on how to participate live through the use of CMT. Registration for speaking remotely must be requested at least 24 hours prior to the meeting. TO PARTICIPATE REMOTELY IN PUBLIC HEARINGS USING CMT PRE-REGISTRATION IS REQUIRED: Comments specific to a public hearing will be heard when it appears on the agenda. Instructions for participating in quasi-judicial and legislative public hearings are available at: https://www.tampa.gov/document/instructions-participate-virtual-public-hearing-34621 Please note: In order to participate in quasi-judicial matters remotely via CMT, cell phones and smartphones are not compatible as they will not allow you to share your camera when connected. You must have access to a communications media device such as a tablet or a computer equipped with a camera and microphone that will enable you to be seen (video) and heard (audio) by the City Council and all other participants. Persons requiring help in accessing these means of public participation should call 813-274-8397 for assistance . Should any person desire to appeal any decision of the Tampa City Council with respect to any matter to be considered at this meeting, that person shall ensure that a verbatim record of the proceeding is made including all testimony and evidence upon which any appeal may be based ( F.S. 286.0105 ). In accordance with the Americans with..."
+        "full_text": "Goal Setting Committee: Subcontracts 27.9516896, -82.4587527 Charline S. Wed, 06/17/2026 - 02:10 pm Event Status Scheduled When Thu, Jul 30 2026 , 3pm Add to Calendar Google Outlook iCal Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Time & Date: 3:00 P.M. Thursday, June 25, 2026 3:00 P.M. Thursday, July 2, 2026 3:00 P.M. Thursday, July 16, 2026 3:00 P.M. Thursday, July 23, 2026 3:00 P.M. Thursday, July 30, 2026 Location: 2nd Floor, Trophy Case Conference Room Hanna Avenue City Center 2555 E. Hanna Avenue Tampa, FL 33610 Topic: To review projects eligible for application of subcontract participation goals pursuant to the City of Tampa\u2019s Equal Business Opportunity Program. Contact: Jose Valdez at 813-274-5543 or Jose.Valdez@tampagov.net Note: All meetings are open to the public. Any person who decides to appeal any decision made with respect to any matter considered at this public hearing or meeting are advised, in accordance with Section 286.0105, Florida Statutes, that they will need a record of the proceedings, and for such purpose may need to hire a court reporter to ensure that a verbatim record of the proceeding is made, which record includes the testimony and evidence upon which the appeal is to be based. Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
       },
       "source": "City of Tampa",
       "source_kind": "event",
-      "start": "2026-07-30T13:00:00+00:00",
-      "title": "City Council Regular Agenda",
-      "url": "https://www.tampa.gov/events/city-council-regular-agenda/192986"
+      "start": "2026-07-30T19:00:00+00:00",
+      "title": "Goal Setting Committee: Subcontracts",
+      "url": "https://www.tampa.gov/events/goal-setting-committee-subcontracts/191826"
     },
     {
       "all_day": false,
@@ -13496,21 +13475,21 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "National Funeral Directors & Morticians Association, Inc. 2026 Annual National Convention & Exposition 27.9405885, -82.455021 Migrated C. Mon, 02/16/2026 - 09:39 pm Event Status Scheduled When Tue, Aug 4 2026 , 7am -...",
-      "end": "2026-08-06T03:59:00+00:00",
-      "id": "city-of-tampa-d200460e37d37871",
+      "description": "Special Call Meeting - FY27 Budget Workshop # 1 27.9516896, -82.4587527 Charline S. Tue, 07/28/2026 - 08:40 am Event Status Scheduled When Mon, Aug 3 2026 , 9am Add to Calendar Google Outlook iCal NOTICE OF PUBLIC...",
+      "end": null,
+      "id": "city-of-tampa-876b39ad4f1fa915",
       "latitude": null,
       "location": "Tampa",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "full_text": "National Funeral Directors & Morticians Association, Inc. 2026 Annual National Convention & Exposition 27.9405885, -82.455021 Migrated C. Mon, 02/16/2026 - 09:39 pm Event Status Scheduled When Tue, Aug 4 2026 , 7am - Wed, Aug 5 2026 , 11:59pm Add to Calendar Google Outlook iCal The National Funeral Directors & Morticians Association, Inc. is a membership association of professional funeral directors and morticians and embalmers, whose members and members-at-large are also members of state associations of funeral directors, morticians and embalmers dedicated to promoting the common professional and business interests of its members. Registration required Get Directions Tampa Convention Center 333 S Franklin St Tampa , FL 33602 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: Business and Trade Event Attendance Mode In-Person (Offline) Event Neighborhood Tampa Downtown Partnership Free/Open to the public? Yes Event Links nfdma.org Event Collection Tampa Convention Center"
+        "full_text": "Special Call Meeting - FY27 Budget Workshop # 1 27.9516896, -82.4587527 Charline S. Tue, 07/28/2026 - 08:40 am Event Status Scheduled When Mon, Aug 3 2026 , 9am Add to Calendar Google Outlook iCal NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL SPECIAL CALL MEETING FY27 BUDGET WORKSHOP # 1 Date: Monday, August 3, 2026 Time: 9:00 AM Location: Old City Hall 315 E. Kennedy Blvd. Tampa FL 33602 Agenda: https://tampa.gov/agendas The purpose of this Special Call Budget Workshop, the first of three, is tentatively scheduled to review and discuss the Recommended Fiscal Year 2027 Budget for the City of Tampa relative to Enterprise Funds: Solid Waste, Water, Wastewater and Parking. Copies of the entire proposed budget will be available for review on or before July 30th on the City\u2019s website at https://www.tampa.gov/budget or at the City Clerk\u2019s Office, 3rd Floor, Old City Hall, 315 East Kennedy Boulevard, Tampa, Florida, Monday through Friday, 8:00 AM to 5:00 PM (excluding City holidays). The public and citizens of the City of Tampa will be able to watch, listen or view this meeting: Cable TV: Spectrum Channel 640 Frontier Channel 15 Internet: https://www.tampa.gov/livestream PUBLIC COMMENT WILL BE LIMITED TO THE SUBJECT OF THE SPECIAL CALL WORKSHOP. MEMBERS OF THE PUBLIC MAY ADDRESS CITY COUNCIL ONCE FOR 3 MINUTES AFTER ALL PRESENTATIONS HAVE BEEN MADE. In accordance with the Americans with Disabilities Act (\"ADA\") and Section 286.26, Florida Statutes, persons with disabilities needing a reasonable accommodation to participate in this public hearing or meeting should contact the City of Tampa\u2019s ADA Coordinator at least 48 hours prior to the proceeding. The ADA Coordinator may be contacted via phone at 813-274- 3964, email at TampaADA@tampagov.net, or by submitting an ADA - Accommodations Request form available online at https://tampa.gov/ADARequest. For additional information, please contact City Council Attorney Martin Shelby at Martin.Shelby@tampa.gov or 813-274-7719. Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection City Council Meetings Public Meetings Pre-registration Required No"
       },
       "source": "City of Tampa",
       "source_kind": "event",
-      "start": "2026-08-04T11:00:00+00:00",
-      "title": "National Funeral Directors & Morticians Association, Inc. 2026 Annual National Convention & Exposition",
-      "url": "https://www.tampa.gov/events/national-funeral-directors-morticians-association-inc-2026-annual-national-convention"
+      "start": "2026-08-03T13:00:00+00:00",
+      "title": "Special Call Meeting - FY27 Budget Workshop # 1",
+      "url": "https://www.tampa.gov/events/special-call-meeting-fy27-budget-workshop-1/193051"
     },
     {
       "all_day": false,
@@ -13559,6 +13538,27 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
+      "description": "Chief's Advisory Panel - August 2026 27.9482694, -82.4579858 Eddy D. Tue, 07/28/2026 - 09:15 am Event Status Scheduled Attachments Chiefs Advisory Panel Agenda August 2026 When Tue, Aug 4 2026 , 6 - 7pm Add to...",
+      "end": "2026-08-04T23:00:00+00:00",
+      "id": "city-of-tampa-1bf9cf51aa724af9",
+      "latitude": null,
+      "location": "Tampa",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "full_text": "Chief's Advisory Panel - August 2026 27.9482694, -82.4579858 Eddy D. Tue, 07/28/2026 - 09:15 am Event Status Scheduled Attachments Chiefs Advisory Panel Agenda August 2026 When Tue, Aug 4 2026 , 6 - 7pm Add to Calendar Google Outlook iCal AGENDA CHIEF\u2019S ADVISORY PANEL FOR THE TAMPA POLICE DEPARTMENT August 4, 2026, 6:00 PM Tampa Police Department Headquarters 411 N. Franklin St. Tampa, FL 33602 I. CALL TO ORDER II. PLEDGE OF ALLEGIANCE III. ROLL CALL IV. APPROVAL OF MINUTES: ( May 5, 2026, meeting) V. PUBLIC COMMENT VI. NEW BUSINESS: a. SOP 647: Department unmanned Aircraft Systems (UAS) and Drone as First Responder (DFR) program. b. Drone capability demonstration. VII. OLD BUSINESS: a. SOP 504 Training and Career Development b. SOP 504.11 Supervisor Development training VIII. FUTURE MEETING a. August 5, 2026 IX. ADJOURNMENT For more information visit on the Chief\u2019s Advisory Panel go to: https://www.tampa.gov/police/transparency/chiefs-advisory-panel In accordance with the Americans with Disabilities Act (\"ADA\") and Section 286.26, Florida Statutes, persons with disabilities needing a reasonable accommodation to participate in this public hearing or meeting should contact the City of Tampa\u2019s ADA Coordinator at least 48 hours prior to the proceeding. The ADA Coordinator may be contacted by phone at 813-274-3964, email at TampaADA@tampagov.net , or by submitting Get Directions Tampa Police Headquarters 411 N Franklin St Tampa , FL 33602 United States Header Image Display Random Photo Photo Group Police News Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Police General Pre-registration Required No"
+      },
+      "source": "City of Tampa",
+      "source_kind": "event",
+      "start": "2026-08-04T22:00:00+00:00",
+      "title": "Chief's Advisory Panel - August 2026",
+      "url": "https://www.tampa.gov/events/chiefs-advisory-panel-august-2026/193076"
+    },
+    {
+      "all_day": false,
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Included only for public meetings or free-marked official listings",
       "description": "Teen Stay & Play Girls Flag Football 27.978388, -82.4231306 Lawrence H. Wed, 06/03/2026 - 12:04 pm Event Status Scheduled Attachments Jackson Heights Recreation Center field When Tue, Aug 4 2026 , 6:30 - 9:30pm Add to...",
       "end": "2026-08-05T01:30:00+00:00",
       "id": "city-of-tampa-25236af794aeb905",
@@ -13580,42 +13580,21 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Channel District Community Advisory Committee 27.9516896, -82.4587527 Charline S. Tue, 07/21/2026 - 09:26 am Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CHANNEL DISTRICT...",
-      "end": null,
-      "id": "city-of-tampa-bbaa764bc05c8b2e",
+      "description": "National Funeral Directors & Morticians Association, Inc. 2026 Annual National Convention & Exposition 27.9405885, -82.455021 Migrated C. Mon, 02/16/2026 - 09:39 pm Event Status Scheduled When Tue, Aug 4 2026 , 7am -...",
+      "end": "2026-08-06T03:59:00+00:00",
+      "id": "city-of-tampa-d200460e37d37871",
       "latitude": null,
       "location": "Tampa",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "full_text": "Channel District Community Advisory Committee 27.9516896, -82.4587527 Charline S. Tue, 07/21/2026 - 09:26 am Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEE FOR THE CHANNEL DISTRICT COMMUNITY REDEVELOPMENT AREA NOTICE OF PUBLIC MEETING Date: Wednesday, August 5, 2026 Time: 5:30 pm Location: Port Tampa Bay Boardroom 1101 Channelside Drive Tampa, FL 33602 Agenda: Please contact Courtney Orr at (813) 274-7937 or at Courtney.Orr@tampagov.net Teams: Microsoft Teams Need help? Join the meeting now Passcode: Td38DH6s Dial in by phone +1 941-263-1615,,681644055# United States, Sarasota Phone conference ID: 681 644 055# The purpose of this public meeting of the Channel District Community Advisory Committee (\"CAC\") is to discuss and make recommendations regarding Community Redevelopment Activities in the Channel District Community Redevelopment Area for consideration by the City of Tampa Community Redevelopment Agency (\"CRA\"). In accordance with the Americans with Disabilities Act (\"ADA\") and Section 286.26, Florida Statutes, persons with disabilities needing a reasonable accommodation to participate in this public hearing or meeting should contact the City of Tampa's ADA Coordinator at least 48 hours prior to the proceeding. The ADA Coordinator may be contacted via phone at 813-274-3964, email at TampaADA@tampagov.net, or by submitting an ADA - Accommodations Request form available online at tampagov.net/ADARequest. Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
+        "full_text": "National Funeral Directors & Morticians Association, Inc. 2026 Annual National Convention & Exposition 27.9405885, -82.455021 Migrated C. Mon, 02/16/2026 - 09:39 pm Event Status Scheduled When Tue, Aug 4 2026 , 7am - Wed, Aug 5 2026 , 11:59pm Add to Calendar Google Outlook iCal The National Funeral Directors & Morticians Association, Inc. is a membership association of professional funeral directors and morticians and embalmers, whose members and members-at-large are also members of state associations of funeral directors, morticians and embalmers dedicated to promoting the common professional and business interests of its members. Registration required Get Directions Tampa Convention Center 333 S Franklin St Tampa , FL 33602 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: Business and Trade Event Attendance Mode In-Person (Offline) Event Neighborhood Tampa Downtown Partnership Free/Open to the public? Yes Event Links nfdma.org Event Collection Tampa Convention Center"
       },
       "source": "City of Tampa",
       "source_kind": "event",
-      "start": "2026-08-05T21:30:00+00:00",
-      "title": "Channel District Community Advisory Committee",
-      "url": "https://www.tampa.gov/events/channel-district-community-advisory-committee/192876"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Architectural Review Commission 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 05:02 pm Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CITY OF TAMPA ARCHITECTURAL...",
-      "end": null,
-      "id": "city-of-tampa-e87e475190f81cfc",
-      "latitude": null,
-      "location": "Tampa",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "full_text": "Architectural Review Commission 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 05:02 pm Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC HEARINGS Date(s) and Time: Monday, August 3, 2026, at 5:30 P.M. Wednesday, August 5, 2026, at 5:30 P.M. Monday - Meeting Location: Old City Hall, 315 E. Kennedy Boulevard, 2nd Floor, Tampa, FL 33602 Wednesday - Meeting Location: Old City Hall, 315 E. Kennedy Boulevard, City Council Chambers, 3rd Floor, Tampa, FL 33602 Members of the public who do not wish to appear in person may submit written comments by mail to Architectural Review & Historic Preservation, 2555 E. Hanna Avenue, Tampa, FL 3310, or by e-mail to HistoricPreservation@tampagov.net. All written comments must be received no later than 24 hours prior to the scheduled meeting in order to be distributed to the Commission members and to be included in the official meeting record. To check the postponement or cancellation status of the public hearing, please contact our office at 813- 274-3100, option #3. www.tampagov.net/historic-preservation NOTE: ALL MEETINGS ARE OPEN TO THE PUBLIC Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
-      },
-      "source": "City of Tampa",
-      "source_kind": "event",
-      "start": "2026-08-05T21:30:00+00:00",
-      "title": "Architectural Review Commission",
-      "url": "https://www.tampa.gov/events/architectural-review-commission/193016"
+      "start": "2026-08-04T11:00:00+00:00",
+      "title": "National Funeral Directors & Morticians Association, Inc. 2026 Annual National Convention & Exposition",
+      "url": "https://www.tampa.gov/events/national-funeral-directors-morticians-association-inc-2026-annual-national-convention"
     },
     {
       "all_day": false,
@@ -13643,6 +13622,48 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
+      "description": "Architectural Review Commission 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 05:02 pm Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CITY OF TAMPA ARCHITECTURAL...",
+      "end": null,
+      "id": "city-of-tampa-e87e475190f81cfc",
+      "latitude": null,
+      "location": "Tampa",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "full_text": "Architectural Review Commission 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 05:02 pm Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC HEARINGS Date(s) and Time: Monday, August 3, 2026, at 5:30 P.M. Wednesday, August 5, 2026, at 5:30 P.M. Monday - Meeting Location: Old City Hall, 315 E. Kennedy Boulevard, 2nd Floor, Tampa, FL 33602 Wednesday - Meeting Location: Old City Hall, 315 E. Kennedy Boulevard, City Council Chambers, 3rd Floor, Tampa, FL 33602 Members of the public who do not wish to appear in person may submit written comments by mail to Architectural Review & Historic Preservation, 2555 E. Hanna Avenue, Tampa, FL 3310, or by e-mail to HistoricPreservation@tampagov.net. All written comments must be received no later than 24 hours prior to the scheduled meeting in order to be distributed to the Commission members and to be included in the official meeting record. To check the postponement or cancellation status of the public hearing, please contact our office at 813- 274-3100, option #3. www.tampagov.net/historic-preservation NOTE: ALL MEETINGS ARE OPEN TO THE PUBLIC Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
+      },
+      "source": "City of Tampa",
+      "source_kind": "event",
+      "start": "2026-08-05T21:30:00+00:00",
+      "title": "Architectural Review Commission",
+      "url": "https://www.tampa.gov/events/architectural-review-commission/193016"
+    },
+    {
+      "all_day": false,
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Included only for public meetings or free-marked official listings",
+      "description": "CANCELLED - Channel District Community Advisory Committee 27.9516896, -82.4587527 Charline S. Tue, 07/21/2026 - 09:26 am Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CHANNEL...",
+      "end": null,
+      "id": "city-of-tampa-e8f6029d5aa06e97",
+      "latitude": null,
+      "location": "Tampa",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "full_text": "CANCELLED - Channel District Community Advisory Committee 27.9516896, -82.4587527 Charline S. Tue, 07/21/2026 - 09:26 am Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEE FOR THE CHANNEL DISTRICT COMMUNITY REDEVELOPMENT AREA NOTICE OF PUBLIC MEETING Date: Wednesday, August 5, 2026 Time: 5:30 pm Agenda: Please contact Courtney Orr at (813) 274-7937 or at Courtney.Orr@tampagov.net Teams: Microsoft Teams Need help? Join the meeting now Passcode: Td38DH6s Dial in by phone +1 941-263-1615,,681644055# United States, Sarasota Phone conference ID: 681 644 055# The purpose of this public meeting of the Channel District Community Advisory Committee (\"CAC\") is to discuss and make recommendations regarding Community Redevelopment Activities in the Channel District Community Redevelopment Area for consideration by the City of Tampa Community Redevelopment Agency (\"CRA\"). In accordance with the Americans with Disabilities Act (\"ADA\") and Section 286.26, Florida Statutes, persons with disabilities needing a reasonable accommodation to participate in this public hearing or meeting should contact the City of Tampa's ADA Coordinator at least 48 hours prior to the proceeding. The ADA Coordinator may be contacted via phone at 813-274-3964, email at TampaADA@tampagov.net, or by submitting an ADA - Accommodations Request form available online at tampagov.net/ADARequest. Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
+      },
+      "source": "City of Tampa",
+      "source_kind": "event",
+      "start": "2026-08-05T21:30:00+00:00",
+      "title": "CANCELLED - Channel District Community Advisory Committee",
+      "url": "https://www.tampa.gov/events/channel-district-community-advisory-committee/192876"
+    },
+    {
+      "all_day": false,
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Included only for public meetings or free-marked official listings",
       "description": "Mayor\u2019s Food Truck Fiesta 27.947953, -82.4584956 WebformCreator (Bot) Tue, 01/20/2026 - 09:37 am Event Status Scheduled Attachments food-truck-fiesta-january-2026-3.jpg When Wed, Aug 5 2026 , 11am - 2pm Add to...",
       "end": "2026-08-05T18:00:00+00:00",
       "id": "city-of-tampa-56b2fd32fa6dd5d9",
@@ -13658,6 +13679,27 @@
       "start": "2026-08-05T15:00:00+00:00",
       "title": "Mayor\u2019s Food Truck Fiesta",
       "url": "https://www.tampa.gov/events/mayors-food-truck-fiesta/179626"
+    },
+    {
+      "all_day": false,
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Included only for public meetings or free-marked official listings",
+      "description": "Public Art Committee 27.9516896, -82.4587527 Charline S. Tue, 07/28/2026 - 08:48 am Event Status Scheduled When Wed, Aug 5 2026 , 9 - 10am Add to Calendar Google Outlook iCal Notice: City of Tampa, Public Art...",
+      "end": "2026-08-05T14:00:00+00:00",
+      "id": "city-of-tampa-6f30feb18448f52e",
+      "latitude": null,
+      "location": "Tampa",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "full_text": "Public Art Committee 27.9516896, -82.4587527 Charline S. Tue, 07/28/2026 - 08:48 am Event Status Scheduled When Wed, Aug 5 2026 , 9 - 10am Add to Calendar Google Outlook iCal Notice: City of Tampa, Public Art Committee Wednesday, August 5, 2026 from 9:00 a.m.-10:00 a.m. Hanna City Center 2555 E. Hanna Avenue Riverwalk Conference Room, 3 rd Floor Tampa, FL 33610 Contact: Melissa.Davies@tampagov.net www.tampa.gov/arts Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Visual Arts Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
+      },
+      "source": "City of Tampa",
+      "source_kind": "event",
+      "start": "2026-08-05T13:00:00+00:00",
+      "title": "Public Art Committee",
+      "url": "https://www.tampa.gov/events/public-art-committee/193066"
     },
     {
       "all_day": false,
@@ -13829,177 +13871,9 @@
       "start": "2026-08-05T18:00:00-04:00",
       "title": "Sunsets at Pier 60",
       "url": "https://www.sunsetsatpier60.com/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Fun things to do in Tampa this weekend: Downtown Tampa to Tampa Bay, both paid & free events in Tampa this weekend & next. Festivals, concerts, markets & more",
-      "end": null,
-      "id": "search-lead-950fddbc86f3f97a",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Tampa free \"July 28, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-07-28T00:00:00-04:00",
-      "title": "Things To Do In Tampa This Weekend: Fun Festivals & Events In Tampa ...",
-      "url": "https://thatssotampa.com/top-tampa-weekend-events/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Fun things to do in Tampa this weekend: Downtown Tampa to Tampa Bay, both paid & free events in Tampa this weekend & next. Festivals, concerts, markets & more",
-      "end": null,
-      "id": "search-lead-dcb00a2d3c70f310",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Tampa free \"July 29, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-07-29T00:00:00-04:00",
-      "title": "Things To Do In Tampa This Weekend: Fun Festivals & Events In Tampa ...",
-      "url": "https://thatssotampa.com/top-tampa-weekend-events/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Fun things to do in Tampa this weekend: Downtown Tampa to Tampa Bay, both paid & free events in Tampa this weekend & next. Festivals, concerts, markets & more",
-      "end": null,
-      "id": "search-lead-90b54fd434521393",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Tampa free \"July 30, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-07-30T00:00:00-04:00",
-      "title": "Things To Do In Tampa This Weekend: Fun Festivals & Events In Tampa ...",
-      "url": "https://thatssotampa.com/top-tampa-weekend-events/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Fun things to do in Tampa this weekend: Downtown Tampa to Tampa Bay, both paid & free events in Tampa this weekend & next. Festivals, concerts, markets & more",
-      "end": null,
-      "id": "search-lead-0b5092f242ef76ae",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Tampa free \"July 31, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-07-31T00:00:00-04:00",
-      "title": "Things To Do In Tampa This Weekend: Fun Festivals & Events In Tampa ...",
-      "url": "https://thatssotampa.com/top-tampa-weekend-events/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Fun things to do in Tampa this weekend: Downtown Tampa to Tampa Bay, both paid & free events in Tampa this weekend & next. Festivals, concerts, markets & more",
-      "end": null,
-      "id": "search-lead-b3dd05b506a841e6",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Tampa free \"August 1, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-01T00:00:00-04:00",
-      "title": "Things To Do In Tampa This Weekend: Fun Festivals & Events In Tampa ...",
-      "url": "https://thatssotampa.com/top-tampa-weekend-events/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Fun things to do in Tampa this weekend: Downtown Tampa to Tampa Bay, both paid & free events in Tampa this weekend & next. Festivals, concerts, markets & more",
-      "end": null,
-      "id": "search-lead-3ac479484108d202",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Tampa free \"August 3, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-03T00:00:00-04:00",
-      "title": "Things To Do In Tampa This Weekend: Fun Festivals & Events In Tampa ...",
-      "url": "https://thatssotampa.com/top-tampa-weekend-events/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Fun things to do in Tampa this weekend: Downtown Tampa to Tampa Bay, both paid & free events in Tampa this weekend & next. Festivals, concerts, markets & more",
-      "end": null,
-      "id": "search-lead-888e61642de99894",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Tampa free \"August 4, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-04T00:00:00-04:00",
-      "title": "Things To Do In Tampa This Weekend: Fun Festivals & Events In Tampa ...",
-      "url": "https://thatssotampa.com/top-tampa-weekend-events/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Fun things to do in Tampa this weekend: Downtown Tampa to Tampa Bay, both paid & free events in Tampa this weekend & next. Festivals, concerts, markets & more",
-      "end": null,
-      "id": "search-lead-a7a884ffd1b1e61b",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Tampa free \"August 5, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-05T00:00:00-04:00",
-      "title": "Things To Do In Tampa This Weekend: Fun Festivals & Events In Tampa ...",
-      "url": "https://thatssotampa.com/top-tampa-weekend-events/"
     }
   ],
-  "generated_at": "2026-07-28T04:31:54.100813-04:00",
+  "generated_at": "2026-07-28T10:02:26.091052-04:00",
   "include_search": true,
   "start": "2026-07-28",
   "statuses": [
@@ -14095,7 +13969,7 @@
       "url": "https://www.eventbrite.com/d/fl--new-port-richey/events/?start_date=2026-08-05&end_date=2026-08-05&page=1&price=free"
     },
     {
-      "count": 285,
+      "count": 284,
       "message": "Fetched structured library calendar API",
       "ok": true,
       "source": "Hillsborough libraries",
@@ -14242,7 +14116,7 @@
       "url": "https://www.tampasdowntown.com/all-events/"
     },
     {
-      "count": 19,
+      "count": 22,
       "message": "Parsed calendar RSS",
       "ok": true,
       "source": "City of Tampa",
@@ -14263,35 +14137,35 @@
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-07-28",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-07-29",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-07-30",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-07-31",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-01",
       "ok": true,
       "source": "Web search leads",
@@ -14305,21 +14179,21 @@
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-03",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-04",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-05",
       "ok": true,
       "source": "Web search leads",
