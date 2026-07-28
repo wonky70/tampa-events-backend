@@ -13130,25 +13130,6 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Official calendar event; excluded if source text indicates a required fee",
-      "description": "HIIT in the Park will be joining our lineup of FREE Community Fitness classes starting tonight at 6pm! Work up a sweat every Monday in Tampa's Downtown with instructors from Crunch Fitness in Curtis Hixon Park!",
-      "end": "2026-07-27T19:00:00+00:00",
-      "id": "tampa-downtown-partnership-6d76a6f98f05f30a",
-      "latitude": null,
-      "location": "Curtis Hixon Waterfront Park, 600 N Ashley Dr, Tampa, FL 33602",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {},
-      "source": "Tampa Downtown Partnership",
-      "source_kind": "event",
-      "start": "2026-07-27T18:00:00+00:00",
-      "title": "HIIT in the Park",
-      "url": "https://www.tampasdowntown.com/events/hiit-in-the-park-5-114-833-441-630-216-762-322-481-977-932-357-639-637-937-705-583-986-763-137-607-625-339-877-460-119-343-552-215-648/?occurrence=2026-07-27"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Official calendar event; excluded if source text indicates a required fee",
       "description": "Join us for Zumba in the Park with Tampa Metropolitan YMCA at 6:00pm! This Latin-inspired dance and a cardio workout will be held in Curtis Hixon Park near the fountains.",
       "end": "2026-07-28T19:00:00+00:00",
       "id": "tampa-downtown-partnership-e952966b09ff1031",
@@ -13224,22 +13205,20 @@
       "all_day": false,
       "category": "Official calendar",
       "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "1st SCORING EVALUATION COMMITTEE MEETING \u2013Professional Building Plan Review & Inspections Services 27.9516896, -82.4587527 Charline S. Thu, 07/09/2026 - 10:12 am Event Status Scheduled When Mon, Jul 27 2026 , 2:30pm...",
-      "end": null,
-      "id": "city-of-tampa-e49e747082fa5a75",
+      "cost_note": "Official calendar event; excluded if source text indicates a required fee",
+      "description": "HIIT in the Park will be joining our lineup of FREE Community Fitness classes starting tonight at 6pm! Work up a sweat every Monday in Tampa's Downtown with instructors from Crunch Fitness in Curtis Hixon Park!",
+      "end": "2026-08-03T19:00:00+00:00",
+      "id": "tampa-downtown-partnership-346cde6b8866fb73",
       "latitude": null,
-      "location": "Tampa",
+      "location": "Curtis Hixon Waterfront Park, 600 N Ashley Dr, Tampa, FL 33602",
       "longitude": null,
       "needs_review": false,
-      "raw": {
-        "full_text": "1st SCORING EVALUATION COMMITTEE MEETING \u2013Professional Building Plan Review & Inspections Services 27.9516896, -82.4587527 Charline S. Thu, 07/09/2026 - 10:12 am Event Status Scheduled When Mon, Jul 27 2026 , 2:30pm Add to Calendar Google Outlook iCal 1 st SCORING EVALUATION COMMITTEE MEETING \u2013 Professional Building Plan Review & Inspections Services RFP #26-P-00272 Date: July 27, 2026 Time: 2:30 PM Location: PURCHASING CONFERENCE ROOM 2555 E HANNA AVENUE, 2 nd FLOOR TAMPA, FL 33610 CONTACT: CHELSEA MULLIGAN, PROCUREMENT ANALYST CITY OF TAMPA PURCHASING DEPARTMENT 2555 E HANNA AVENUE, 2 nd Floor (813) 274-8342 In accordance with the Americans with Disabilities Act (\"ADA\") and Section 286.26, Florida Statutes, persons with disabilities needing a reasonable accommodation to participate in public hearings or meetings should contact the City of Tampa\u2019s ADA Coordinator at least 48 hours prior to the proceeding. The ADA Coordinator may be contacted by phone at 813-274-3964, email at TampaADA@tampagov.net , or by submitting an ADA - Accommodations Request online form available at https://tampagov.net/ADARequest Please note that the City of Tampa may not be able to accommodate any request received less than 48 hours before the scheduled hearing or meeting. Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
-      },
-      "source": "City of Tampa",
+      "raw": {},
+      "source": "Tampa Downtown Partnership",
       "source_kind": "event",
-      "start": "2026-07-27T18:30:00+00:00",
-      "title": "1st SCORING EVALUATION COMMITTEE MEETING \u2013Professional Building Plan Review & Inspections Services",
-      "url": "https://www.tampa.gov/events/1st-scoring-evaluation-committee-meeting-professional-building-plan-review-inspections"
+      "start": "2026-08-03T18:00:00+00:00",
+      "title": "HIIT in the Park",
+      "url": "https://www.tampasdowntown.com/events/hiit-in-the-park-5-114-833-441-630-216-762-322-481-977-932-357-639-637-937-705-583-986-763-137-607-625-339-877-460-119-343-552-215-648/?occurrence=2026-08-03"
     },
     {
       "all_day": false,
@@ -13728,7 +13707,7 @@
       "url": "https://www.sunsetsatpier60.com/"
     }
   ],
-  "generated_at": "2026-07-27T15:25:21.116831-04:00",
+  "generated_at": "2026-07-27T22:23:45.930787-04:00",
   "include_search": true,
   "start": "2026-07-27",
   "statuses": [
@@ -13971,7 +13950,7 @@
       "url": "https://www.tampasdowntown.com/all-events/"
     },
     {
-      "count": 16,
+      "count": 15,
       "message": "Parsed calendar RSS",
       "ok": true,
       "source": "City of Tampa",
