@@ -7936,19 +7936,19 @@
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "For Intermediate/Advanced Players: Join Chess Master-Rated coach Rick McKnight to improve your chess game & strategy. Registration Required. Open to kids / teens who are experienced chess players.",
       "end": "2026-08-05T16:30:00+00:00",
-      "id": "pasco-libraries-16806433",
+      "id": "pasco-libraries-17068710",
       "latitude": null,
       "location": "New River Branch, Meeting Room",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "library_event_id": "16806433"
+        "library_event_id": "17068710"
       },
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-05T15:30:00+00:00",
       "title": "Chess Club for Kids & Teens: Intermediate / Advanced: 4th Grade - 12th Grade",
-      "url": "https://pascolibraries.libnet.info/event/16806433"
+      "url": "https://pascolibraries.libnet.info/event/17068710"
     },
     {
       "all_day": false,
@@ -7978,19 +7978,19 @@
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "For Beginners: Join Chess Master-Rated coach Rick McKnight to learn chess. Registration Required.",
       "end": "2026-08-05T17:30:00+00:00",
-      "id": "pasco-libraries-16806507",
+      "id": "pasco-libraries-17069313",
       "latitude": null,
       "location": "New River Branch, Meeting Room",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "library_event_id": "16806507"
+        "library_event_id": "17069313"
       },
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-05T16:30:00+00:00",
       "title": "Chess Club for Kids & Teens: Beginners: 4th Grade - 12th Grade",
-      "url": "https://pascolibraries.libnet.info/event/16806507"
+      "url": "https://pascolibraries.libnet.info/event/17069313"
     },
     {
       "all_day": false,
@@ -13188,7 +13188,7 @@
       "url": "https://www.sunsetsatpier60.com/"
     }
   ],
-  "generated_at": "2026-07-29T15:13:27.300518-04:00",
+  "generated_at": "2026-07-29T22:10:52.783112-04:00",
   "include_search": true,
   "start": "2026-07-29",
   "statuses": [
