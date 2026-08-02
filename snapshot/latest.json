@@ -6656,9 +6656,198 @@
       "start": "2026-08-10T18:00:00-04:00",
       "title": "Sunsets at Pier 60",
       "url": "https://www.sunsetsatpier60.com/"
+    },
+    {
+      "all_day": true,
+      "category": "Needs review",
+      "city": "Tampa Bay",
+      "cost_note": "Search/social lead only; verify date, location, and free status manually",
+      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
+      "end": null,
+      "id": "search-lead-4ff69b21065338ac",
+      "latitude": null,
+      "location": "Needs review",
+      "longitude": null,
+      "needs_review": true,
+      "raw": {
+        "query": "site:facebook.com/events Pasco County free \"August 2, 2026\""
+      },
+      "source": "Web search lead",
+      "source_kind": "lead",
+      "start": "2026-08-02T00:00:00-04:00",
+      "title": "Pasco News | Hudson FL - Facebook",
+      "url": "https://www.facebook.com/PascoNewsOnline/"
+    },
+    {
+      "all_day": true,
+      "category": "Needs review",
+      "city": "Tampa Bay",
+      "cost_note": "Search/social lead only; verify date, location, and free status manually",
+      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
+      "end": null,
+      "id": "search-lead-da1d09e631e3b84f",
+      "latitude": null,
+      "location": "Needs review",
+      "longitude": null,
+      "needs_review": true,
+      "raw": {
+        "query": "site:facebook.com/events Pasco County free \"August 3, 2026\""
+      },
+      "source": "Web search lead",
+      "source_kind": "lead",
+      "start": "2026-08-03T00:00:00-04:00",
+      "title": "Pasco News | Hudson FL - Facebook",
+      "url": "https://www.facebook.com/PascoNewsOnline/"
+    },
+    {
+      "all_day": true,
+      "category": "Needs review",
+      "city": "Tampa Bay",
+      "cost_note": "Search/social lead only; verify date, location, and free status manually",
+      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
+      "end": null,
+      "id": "search-lead-611f30dd29b8904c",
+      "latitude": null,
+      "location": "Needs review",
+      "longitude": null,
+      "needs_review": true,
+      "raw": {
+        "query": "site:facebook.com/events Pasco County free \"August 4, 2026\""
+      },
+      "source": "Web search lead",
+      "source_kind": "lead",
+      "start": "2026-08-04T00:00:00-04:00",
+      "title": "Pasco News | Hudson FL - Facebook",
+      "url": "https://www.facebook.com/PascoNewsOnline/"
+    },
+    {
+      "all_day": true,
+      "category": "Needs review",
+      "city": "Tampa Bay",
+      "cost_note": "Search/social lead only; verify date, location, and free status manually",
+      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
+      "end": null,
+      "id": "search-lead-e4d7265ee77c296b",
+      "latitude": null,
+      "location": "Needs review",
+      "longitude": null,
+      "needs_review": true,
+      "raw": {
+        "query": "site:facebook.com/events Pasco County free \"August 5, 2026\""
+      },
+      "source": "Web search lead",
+      "source_kind": "lead",
+      "start": "2026-08-05T00:00:00-04:00",
+      "title": "Pasco News | Hudson FL - Facebook",
+      "url": "https://www.facebook.com/PascoNewsOnline/"
+    },
+    {
+      "all_day": true,
+      "category": "Needs review",
+      "city": "Tampa Bay",
+      "cost_note": "Search/social lead only; verify date, location, and free status manually",
+      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
+      "end": null,
+      "id": "search-lead-979bed4d2ccc00a1",
+      "latitude": null,
+      "location": "Needs review",
+      "longitude": null,
+      "needs_review": true,
+      "raw": {
+        "query": "site:facebook.com/events Pasco County free \"August 6, 2026\""
+      },
+      "source": "Web search lead",
+      "source_kind": "lead",
+      "start": "2026-08-06T00:00:00-04:00",
+      "title": "Pasco News | Hudson FL - Facebook",
+      "url": "https://www.facebook.com/PascoNewsOnline/"
+    },
+    {
+      "all_day": true,
+      "category": "Needs review",
+      "city": "Tampa Bay",
+      "cost_note": "Search/social lead only; verify date, location, and free status manually",
+      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
+      "end": null,
+      "id": "search-lead-8548d8a25298301e",
+      "latitude": null,
+      "location": "Needs review",
+      "longitude": null,
+      "needs_review": true,
+      "raw": {
+        "query": "site:facebook.com/events Pasco County free \"August 7, 2026\""
+      },
+      "source": "Web search lead",
+      "source_kind": "lead",
+      "start": "2026-08-07T00:00:00-04:00",
+      "title": "Pasco News | Hudson FL - Facebook",
+      "url": "https://www.facebook.com/PascoNewsOnline/"
+    },
+    {
+      "all_day": true,
+      "category": "Needs review",
+      "city": "Tampa Bay",
+      "cost_note": "Search/social lead only; verify date, location, and free status manually",
+      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
+      "end": null,
+      "id": "search-lead-eb85832f60689d64",
+      "latitude": null,
+      "location": "Needs review",
+      "longitude": null,
+      "needs_review": true,
+      "raw": {
+        "query": "site:facebook.com/events Pasco County free \"August 8, 2026\""
+      },
+      "source": "Web search lead",
+      "source_kind": "lead",
+      "start": "2026-08-08T00:00:00-04:00",
+      "title": "Pasco News | Hudson FL - Facebook",
+      "url": "https://www.facebook.com/PascoNewsOnline/"
+    },
+    {
+      "all_day": true,
+      "category": "Needs review",
+      "city": "Tampa Bay",
+      "cost_note": "Search/social lead only; verify date, location, and free status manually",
+      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
+      "end": null,
+      "id": "search-lead-201ae75919e22a7d",
+      "latitude": null,
+      "location": "Needs review",
+      "longitude": null,
+      "needs_review": true,
+      "raw": {
+        "query": "site:facebook.com/events Pasco County free \"August 9, 2026\""
+      },
+      "source": "Web search lead",
+      "source_kind": "lead",
+      "start": "2026-08-09T00:00:00-04:00",
+      "title": "Pasco News | Hudson FL - Facebook",
+      "url": "https://www.facebook.com/PascoNewsOnline/"
+    },
+    {
+      "all_day": true,
+      "category": "Needs review",
+      "city": "Tampa Bay",
+      "cost_note": "Search/social lead only; verify date, location, and free status manually",
+      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
+      "end": null,
+      "id": "search-lead-ccb9c03a02333b04",
+      "latitude": null,
+      "location": "Needs review",
+      "longitude": null,
+      "needs_review": true,
+      "raw": {
+        "query": "site:facebook.com/events Pasco County free \"August 10, 2026\""
+      },
+      "source": "Web search lead",
+      "source_kind": "lead",
+      "start": "2026-08-10T00:00:00-04:00",
+      "title": "Pasco News | Hudson FL - Facebook",
+      "url": "https://www.facebook.com/PascoNewsOnline/"
     }
   ],
-  "generated_at": "2026-08-02T04:22:08.231756-04:00",
+  "generated_at": "2026-08-02T09:16:57.576059-04:00",
   "include_search": true,
   "start": "2026-08-02",
   "statuses": [
@@ -6922,63 +7111,63 @@
       "url": ""
     },
     {
-      "count": 0,
+      "count": 1,
       "message": "Fetched Bing/RSS public search leads for 2026-08-02",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 0,
+      "count": 1,
       "message": "Fetched Bing/RSS public search leads for 2026-08-03",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 0,
+      "count": 1,
       "message": "Fetched Bing/RSS public search leads for 2026-08-04",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 0,
+      "count": 1,
       "message": "Fetched Bing/RSS public search leads for 2026-08-05",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 0,
+      "count": 1,
       "message": "Fetched Bing/RSS public search leads for 2026-08-06",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 0,
+      "count": 1,
       "message": "Fetched Bing/RSS public search leads for 2026-08-07",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 0,
+      "count": 1,
       "message": "Fetched Bing/RSS public search leads for 2026-08-08",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 0,
+      "count": 1,
       "message": "Fetched Bing/RSS public search leads for 2026-08-09",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 0,
+      "count": 1,
       "message": "Fetched Bing/RSS public search leads for 2026-08-10",
       "ok": true,
       "source": "Web search leads",
