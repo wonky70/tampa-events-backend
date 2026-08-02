@@ -4007,6 +4007,27 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Baby Storytime is a perfect way to introduce your littlest ones to the joys of books.",
+      "end": "2026-08-03T11:45:00+00:00",
+      "id": "pasco-libraries-16201084",
+      "latitude": null,
+      "location": "Starkey Ranch Theatre Library Cultural Center, Heron Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16201084"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-03T11:00:00+00:00",
+      "title": "Baby Storytime Session 2 with Ms. Becky",
+      "url": "https://pascolibraries.libnet.info/event/16201084"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Teen volunteers must be 13 to 18 years old and must complete the online application before attending this orientation. Visit: https://www.pascolibraries.org/supporters/volunteering/",
       "end": "2026-08-03T16:00:00+00:00",
       "id": "pasco-libraries-16715168",
@@ -4089,27 +4110,6 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Representatives from Career Source will be available for assistance with employment searches, resume writing, interviewing preparation, EmployFlorida assistance and more!",
-      "end": "2026-08-04T12:00:00+00:00",
-      "id": "pasco-libraries-15595948",
-      "latitude": null,
-      "location": "Centennial Park Branch, Study Room B",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "15595948"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-04T10:00:00+00:00",
-      "title": "Career Source Employment Assistance ",
-      "url": "https://pascolibraries.libnet.info/event/15595948"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
       "city": "Land O'Lakes",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "This activity is intended for ages 18 years & older or youth age 9 years & older with an accompanying guardian.",
@@ -4148,6 +4148,27 @@
       "start": "2026-08-04T10:00:00+00:00",
       "title": "Friends of the Library Book Sale",
       "url": "https://pascolibraries.libnet.info/event/16764632"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Representatives from Career Source will be available for assistance with employment searches, resume writing, interviewing preparation, EmployFlorida assistance and more!",
+      "end": "2026-08-04T12:00:00+00:00",
+      "id": "pasco-libraries-15595948",
+      "latitude": null,
+      "location": "Centennial Park Branch, Study Room B",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "15595948"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-04T10:00:00+00:00",
+      "title": "Career Source Employment Assistance ",
+      "url": "https://pascolibraries.libnet.info/event/15595948"
     },
     {
       "all_day": false,
@@ -4278,27 +4299,6 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Join us at Hugh Embry Library to discuss Listen for the Lie by Amy Tintera. Copies can be picked up at the library after 7/7/2026. For more information, contact Hugh Embry Library: 352-567-3576.",
-      "end": "2026-08-04T15:00:00+00:00",
-      "id": "pasco-libraries-16715178",
-      "latitude": null,
-      "location": "Hugh Embry Branch, Meeting Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16715178"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-04T14:00:00+00:00",
-      "title": "Mystery Book Club",
-      "url": "https://pascolibraries.libnet.info/event/16715178"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
       "city": "New Port Richey",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Please join us for our Book Social! Gather with fellow book worms to snack, chat, swap books and make intentional time to read! This club will meet at Mochinut New Port Richey.",
@@ -4316,6 +4316,27 @@
       "start": "2026-08-04T14:00:00+00:00",
       "title": "Hudson Book Social",
       "url": "https://pascolibraries.libnet.info/event/16898739"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join us at Hugh Embry Library to discuss Listen for the Lie by Amy Tintera. Copies can be picked up at the library after 7/7/2026. For more information, contact Hugh Embry Library: 352-567-3576.",
+      "end": "2026-08-04T15:00:00+00:00",
+      "id": "pasco-libraries-16715178",
+      "latitude": null,
+      "location": "Hugh Embry Branch, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16715178"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-04T14:00:00+00:00",
+      "title": "Mystery Book Club",
+      "url": "https://pascolibraries.libnet.info/event/16715178"
     },
     {
       "all_day": false,
@@ -4341,27 +4362,6 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "Zephyrhills",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Join us for our all new monthly Chess Club! All ages and experience levels are welcome. Space is limited, but registration is not required.",
-      "end": "2026-08-04T16:00:00+00:00",
-      "id": "pasco-libraries-16044509",
-      "latitude": null,
-      "location": "Zephyrhills Public Library, Meeting Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16044509"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-04T15:00:00+00:00",
-      "title": "Chess Club",
-      "url": "https://pascolibraries.libnet.info/event/16044509"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Calling all adventurers!! Join us in our new Dungeons and Dragons Club! New and experience adventurers are welcome! This club is for tweens and teens.",
@@ -4379,6 +4379,27 @@
       "start": "2026-08-04T15:00:00+00:00",
       "title": "Dungeons and Dragons Club: Starkey Dungeon Crawlers",
       "url": "https://pascolibraries.libnet.info/event/16496012"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Zephyrhills",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join us for our all new monthly Chess Club! All ages and experience levels are welcome. Space is limited, but registration is not required.",
+      "end": "2026-08-04T16:00:00+00:00",
+      "id": "pasco-libraries-16044509",
+      "latitude": null,
+      "location": "Zephyrhills Public Library, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16044509"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-04T15:00:00+00:00",
+      "title": "Chess Club",
+      "url": "https://pascolibraries.libnet.info/event/16044509"
     },
     {
       "all_day": false,
@@ -4469,27 +4490,6 @@
       "category": "Library",
       "city": "Land O'Lakes",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "This social group meets biweekly to work on their own handwork projects .",
-      "end": "2026-08-05T12:30:00+00:00",
-      "id": "pasco-libraries-16806885",
-      "latitude": null,
-      "location": "Land O'Lakes Branch, Multipurpose Room C - Adult",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16806885"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-05T10:00:00+00:00",
-      "title": "Handwork Circle",
-      "url": "https://pascolibraries.libnet.info/event/16806885"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "Land O'Lakes",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "This class is designed for beginners. All new beginners must start on the first Wednesday of the month. Registration on the first Wednesday of the month signs you up for the whole month.",
       "end": "2026-08-05T12:00:00+00:00",
       "id": "pasco-libraries-16961073",
@@ -4505,6 +4505,27 @@
       "start": "2026-08-05T10:00:00+00:00",
       "title": "Beginner Mahjong",
       "url": "https://pascolibraries.libnet.info/event/16961073"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "This social group meets biweekly to work on their own handwork projects .",
+      "end": "2026-08-05T12:30:00+00:00",
+      "id": "pasco-libraries-16806885",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Multipurpose Room C - Adult",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16806885"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-05T10:00:00+00:00",
+      "title": "Handwork Circle",
+      "url": "https://pascolibraries.libnet.info/event/16806885"
     },
     {
       "all_day": false,
@@ -4761,6 +4782,27 @@
     {
       "all_day": false,
       "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join trained tutors to improve your English language skills.",
+      "end": "2026-08-05T19:30:00+00:00",
+      "id": "pasco-libraries-16723277",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Multipurpose Room C - Adult",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16723277"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-05T18:00:00+00:00",
+      "title": "English Conversation Corner - Land O Lakes",
+      "url": "https://pascolibraries.libnet.info/event/16723277"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
       "city": "Wesley Chapel",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Join trained tutors to improve your English language skills.",
@@ -4805,27 +4847,6 @@
       "category": "Library",
       "city": "Land O'Lakes",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Join trained tutors to improve your English language skills.",
-      "end": "2026-08-05T19:30:00+00:00",
-      "id": "pasco-libraries-16723277",
-      "latitude": null,
-      "location": "Land O'Lakes Branch, Multipurpose Room C - Adult",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16723277"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-05T18:00:00+00:00",
-      "title": "English Conversation Corner - Land O Lakes",
-      "url": "https://pascolibraries.libnet.info/event/16723277"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "Land O'Lakes",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "This activity is intended for ages 18 years & older or youth age 9 years & older with an accompanying guardian.",
       "end": "2026-08-06T10:30:00+00:00",
       "id": "pasco-libraries-16807041",
@@ -4841,6 +4862,27 @@
       "start": "2026-08-06T09:00:00+00:00",
       "title": "Woodworking Open Build",
       "url": "https://pascolibraries.libnet.info/event/16807041"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Zephyrhills",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Read, sing, dance, and more with your little learners in this fun, interactive storytime! Space is limited, however registration is not required. Ages: Toddler/Preschool.",
+      "end": "2026-08-06T10:20:00+00:00",
+      "id": "pasco-libraries-16281999",
+      "latitude": null,
+      "location": "Zephyrhills Public Library, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16281999"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-06T10:00:00+00:00",
+      "title": "Storytime Fun!: 10:00AM",
+      "url": "https://pascolibraries.libnet.info/event/16281999"
     },
     {
       "all_day": false,
@@ -4868,48 +4910,6 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "This training is a requirement for Adult Literacy tutors. Please submit an interest form to become a tutor: https://www.pascolibraries.org/services/adult-literacy-services/als-sign-up-form/",
-      "end": "2026-08-06T13:00:00+00:00",
-      "id": "pasco-libraries-16862158",
-      "latitude": null,
-      "location": "Hugh Embry Branch",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16862158"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-06T10:00:00+00:00",
-      "title": "Adult Literacy New Tutor Training",
-      "url": "https://pascolibraries.libnet.info/event/16862158"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "Zephyrhills",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Read, sing, dance, and more with your little learners in this fun, interactive storytime! Space is limited, however registration is not required. Ages: Toddler/Preschool.",
-      "end": "2026-08-06T10:20:00+00:00",
-      "id": "pasco-libraries-16281999",
-      "latitude": null,
-      "location": "Zephyrhills Public Library, Meeting Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16281999"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-06T10:00:00+00:00",
-      "title": "Storytime Fun!: 10:00AM",
-      "url": "https://pascolibraries.libnet.info/event/16281999"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Library staff are available for computer or mobile device basics. Bring your own device, or use a public computer. Registration is required. For information, call Hugh Embry Library: 352-567-3576.",
       "end": "2026-08-06T11:00:00+00:00",
       "id": "pasco-libraries-16715195",
@@ -4925,6 +4925,27 @@
       "start": "2026-08-06T10:00:00+00:00",
       "title": "Tech Help at Hugh Embry: Registration Required",
       "url": "https://pascolibraries.libnet.info/event/16715195"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "This training is a requirement for Adult Literacy tutors. Please submit an interest form to become a tutor: https://www.pascolibraries.org/services/adult-literacy-services/als-sign-up-form/",
+      "end": "2026-08-06T13:00:00+00:00",
+      "id": "pasco-libraries-16862158",
+      "latitude": null,
+      "location": "Hugh Embry Branch",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16862158"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-06T10:00:00+00:00",
+      "title": "Adult Literacy New Tutor Training",
+      "url": "https://pascolibraries.libnet.info/event/16862158"
     },
     {
       "all_day": false,
@@ -4971,27 +4992,6 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "Land O'Lakes",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "This activity is intended for ages 18 years & older or youth age 9 years & older with an accompanying guardian.",
-      "end": "2026-08-06T12:00:00+00:00",
-      "id": "pasco-libraries-16807045",
-      "latitude": null,
-      "location": "Land O'Lakes Branch, Multipurpose Room D - Foundry",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16807045"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-06T10:30:00+00:00",
-      "title": "Woodworking Open Build",
-      "url": "https://pascolibraries.libnet.info/event/16807045"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
       "city": "Zephyrhills",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Read, sing, dance, and more with your little learners in this fun, interactive storytime! Space is limited, however registration is not required. Ages: Toddler/Preschool.",
@@ -5009,6 +5009,27 @@
       "start": "2026-08-06T10:30:00+00:00",
       "title": "Storytime Fun!: 10:30AM",
       "url": "https://pascolibraries.libnet.info/event/16282123"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "This activity is intended for ages 18 years & older or youth age 9 years & older with an accompanying guardian.",
+      "end": "2026-08-06T12:00:00+00:00",
+      "id": "pasco-libraries-16807045",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Multipurpose Room D - Foundry",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16807045"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-06T10:30:00+00:00",
+      "title": "Woodworking Open Build",
+      "url": "https://pascolibraries.libnet.info/event/16807045"
     },
     {
       "all_day": false,
@@ -5204,27 +5225,6 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "English conversation for speakers of other languages. Practice your English speaking skills in a group on Zoom.",
-      "end": "2026-08-07T11:30:00+00:00",
-      "id": "pasco-libraries-16658038",
-      "latitude": null,
-      "location": "South Holiday Branch",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16658038"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-07T10:00:00+00:00",
-      "title": "English Conversation Group - South Holiday",
-      "url": "https://pascolibraries.libnet.info/event/16658038"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Join trained tutors to improve your English language skills.",
       "end": "2026-08-07T11:30:00+00:00",
       "id": "pasco-libraries-16715210",
@@ -5240,6 +5240,27 @@
       "start": "2026-08-07T10:00:00+00:00",
       "title": "English Conversation Corner - Hugh Embry",
       "url": "https://pascolibraries.libnet.info/event/16715210"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "English conversation for speakers of other languages. Practice your English speaking skills in a group on Zoom.",
+      "end": "2026-08-07T11:30:00+00:00",
+      "id": "pasco-libraries-16658038",
+      "latitude": null,
+      "location": "South Holiday Branch",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16658038"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-07T10:00:00+00:00",
+      "title": "English Conversation Group - South Holiday",
+      "url": "https://pascolibraries.libnet.info/event/16658038"
     },
     {
       "all_day": false,
@@ -5435,27 +5456,6 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "This is a one hour basic skills class for English language learners who have limited English fluency. The class is taught in English and is held on Zoom.",
-      "end": "2026-08-08T11:00:00+00:00",
-      "id": "pasco-libraries-16657911",
-      "latitude": null,
-      "location": "South Holiday Branch",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16657911"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-08T10:00:00+00:00",
-      "title": "English Basic Skills",
-      "url": "https://pascolibraries.libnet.info/event/16657911"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Back to School Bash",
       "end": "2026-08-08T12:00:00+00:00",
       "id": "pasco-libraries-16698557",
@@ -5471,6 +5471,27 @@
       "start": "2026-08-08T10:00:00+00:00",
       "title": "Back to School Bash ",
       "url": "https://pascolibraries.libnet.info/event/16698557"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "This is a one hour basic skills class for English language learners who have limited English fluency. The class is taught in English and is held on Zoom.",
+      "end": "2026-08-08T11:00:00+00:00",
+      "id": "pasco-libraries-16657911",
+      "latitude": null,
+      "location": "South Holiday Branch",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16657911"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-08T10:00:00+00:00",
+      "title": "English Basic Skills",
+      "url": "https://pascolibraries.libnet.info/event/16657911"
     },
     {
       "all_day": false,
@@ -5517,6 +5538,27 @@
     {
       "all_day": false,
       "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join trained tutors to improve your English skills through casual conversation in a comfortable environment. All supplies and learning materials will be provided. No registration required. Ages 18+.",
+      "end": "2026-08-08T16:30:00+00:00",
+      "id": "pasco-libraries-16368307",
+      "latitude": null,
+      "location": "Starkey Ranch Theatre Library Cultural Center, Heron Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16368307"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-08T15:00:00+00:00",
+      "title": "English Conversation Corner  ",
+      "url": "https://pascolibraries.libnet.info/event/16368307"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
       "city": "Land O'Lakes",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Join us for a Tai Chi class with Dan Suede. This class is for adults at all skill levels. This program is sponsored by the Friends of the Land O' Lakes Library.",
@@ -5540,21 +5582,21 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Join trained tutors to improve your English skills through casual conversation in a comfortable environment. All supplies and learning materials will be provided. No registration required. Ages 18+.",
-      "end": "2026-08-08T16:30:00+00:00",
-      "id": "pasco-libraries-16368307",
+      "description": "Join us at the next Board of Directors meeting! Whether you are an established member or just curious about the Friends, all are welcome to attend.",
+      "end": "2026-08-10T12:00:00+00:00",
+      "id": "pasco-libraries-15431174",
       "latitude": null,
-      "location": "Starkey Ranch Theatre Library Cultural Center, Heron Room",
+      "location": "Starkey Ranch Theatre Library Cultural Center, Egret Room",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "library_event_id": "16368307"
+        "library_event_id": "15431174"
       },
       "source": "Pasco libraries",
       "source_kind": "library",
-      "start": "2026-08-08T15:00:00+00:00",
-      "title": "English Conversation Corner  ",
-      "url": "https://pascolibraries.libnet.info/event/16368307"
+      "start": "2026-08-10T10:00:00+00:00",
+      "title": "FOL Board Meeting",
+      "url": "https://pascolibraries.libnet.info/event/15431174"
     },
     {
       "all_day": false,
@@ -5582,27 +5624,6 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Join us at the next Board of Directors meeting! Whether you are an established member or just curious about the Friends, all are welcome to attend.",
-      "end": "2026-08-10T12:00:00+00:00",
-      "id": "pasco-libraries-15431174",
-      "latitude": null,
-      "location": "Starkey Ranch Theatre Library Cultural Center, Egret Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "15431174"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-10T10:00:00+00:00",
-      "title": "FOL Board Meeting",
-      "url": "https://pascolibraries.libnet.info/event/15431174"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Baby Storytime is a perfect way to introduce your littlest ones to the joys of books.",
       "end": "2026-08-10T10:50:00+00:00",
       "id": "pasco-libraries-16197124",
@@ -5618,6 +5639,27 @@
       "start": "2026-08-10T10:15:00+00:00",
       "title": "Baby Storytime Session 1 with Ms. Becky",
       "url": "https://pascolibraries.libnet.info/event/16197124"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Baby Storytime is a perfect way to introduce your littlest ones to the joys of books.",
+      "end": "2026-08-10T11:45:00+00:00",
+      "id": "pasco-libraries-16201085",
+      "latitude": null,
+      "location": "Starkey Ranch Theatre Library Cultural Center",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16201085"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-10T11:00:00+00:00",
+      "title": "Baby Storytime Session 2 with Ms. Becky",
+      "url": "https://pascolibraries.libnet.info/event/16201085"
     },
     {
       "all_day": false,
@@ -5666,27 +5708,6 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Help the Hugh Embry Library design programs specifically for Teens. Pizza will be provided.",
-      "end": "2026-08-10T17:00:00+00:00",
-      "id": "pasco-libraries-16756688",
-      "latitude": null,
-      "location": "Hugh Embry Branch, Meeting Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16756688"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-10T16:00:00+00:00",
-      "title": "(TAB) Teen Advisory Board",
-      "url": "https://pascolibraries.libnet.info/event/16756688"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Appointment slots for community closet for crafters and artists",
       "end": "2026-08-10T18:00:00+00:00",
       "id": "pasco-libraries-17053097",
@@ -5702,6 +5723,27 @@
       "start": "2026-08-10T16:00:00+00:00",
       "title": "Free Art Closet by Appointment",
       "url": "https://pascolibraries.libnet.info/event/17053097"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Help the Hugh Embry Library design programs specifically for Teens. Pizza will be provided.",
+      "end": "2026-08-10T17:00:00+00:00",
+      "id": "pasco-libraries-16756688",
+      "latitude": null,
+      "location": "Hugh Embry Branch, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16756688"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-10T16:00:00+00:00",
+      "title": "(TAB) Teen Advisory Board",
+      "url": "https://pascolibraries.libnet.info/event/16756688"
     },
     {
       "all_day": false,
@@ -6656,198 +6698,9 @@
       "start": "2026-08-10T18:00:00-04:00",
       "title": "Sunsets at Pier 60",
       "url": "https://www.sunsetsatpier60.com/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
-      "end": null,
-      "id": "search-lead-4ff69b21065338ac",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Pasco County free \"August 2, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-02T00:00:00-04:00",
-      "title": "Pasco News | Hudson FL - Facebook",
-      "url": "https://www.facebook.com/PascoNewsOnline/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
-      "end": null,
-      "id": "search-lead-da1d09e631e3b84f",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Pasco County free \"August 3, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-03T00:00:00-04:00",
-      "title": "Pasco News | Hudson FL - Facebook",
-      "url": "https://www.facebook.com/PascoNewsOnline/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
-      "end": null,
-      "id": "search-lead-611f30dd29b8904c",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Pasco County free \"August 4, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-04T00:00:00-04:00",
-      "title": "Pasco News | Hudson FL - Facebook",
-      "url": "https://www.facebook.com/PascoNewsOnline/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
-      "end": null,
-      "id": "search-lead-e4d7265ee77c296b",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Pasco County free \"August 5, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-05T00:00:00-04:00",
-      "title": "Pasco News | Hudson FL - Facebook",
-      "url": "https://www.facebook.com/PascoNewsOnline/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
-      "end": null,
-      "id": "search-lead-979bed4d2ccc00a1",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Pasco County free \"August 6, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-06T00:00:00-04:00",
-      "title": "Pasco News | Hudson FL - Facebook",
-      "url": "https://www.facebook.com/PascoNewsOnline/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
-      "end": null,
-      "id": "search-lead-8548d8a25298301e",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Pasco County free \"August 7, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-07T00:00:00-04:00",
-      "title": "Pasco News | Hudson FL - Facebook",
-      "url": "https://www.facebook.com/PascoNewsOnline/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
-      "end": null,
-      "id": "search-lead-eb85832f60689d64",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Pasco County free \"August 8, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-08T00:00:00-04:00",
-      "title": "Pasco News | Hudson FL - Facebook",
-      "url": "https://www.facebook.com/PascoNewsOnline/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
-      "end": null,
-      "id": "search-lead-201ae75919e22a7d",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Pasco County free \"August 9, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-09T00:00:00-04:00",
-      "title": "Pasco News | Hudson FL - Facebook",
-      "url": "https://www.facebook.com/PascoNewsOnline/"
-    },
-    {
-      "all_day": true,
-      "category": "Needs review",
-      "city": "Tampa Bay",
-      "cost_note": "Search/social lead only; verify date, location, and free status manually",
-      "description": "Pasco News, Hudson. 161,766 likes \u00b7 24,492 talking about this \u00b7 1 was here. Your source for Breaking News in Pasco, Hernando, Citrus and the Tampa Bay Area.",
-      "end": null,
-      "id": "search-lead-ccb9c03a02333b04",
-      "latitude": null,
-      "location": "Needs review",
-      "longitude": null,
-      "needs_review": true,
-      "raw": {
-        "query": "site:facebook.com/events Pasco County free \"August 10, 2026\""
-      },
-      "source": "Web search lead",
-      "source_kind": "lead",
-      "start": "2026-08-10T00:00:00-04:00",
-      "title": "Pasco News | Hudson FL - Facebook",
-      "url": "https://www.facebook.com/PascoNewsOnline/"
     }
   ],
-  "generated_at": "2026-08-02T09:16:57.576059-04:00",
+  "generated_at": "2026-08-02T15:11:40.823444-04:00",
   "include_search": true,
   "start": "2026-08-02",
   "statuses": [
@@ -6950,7 +6803,7 @@
       "url": ""
     },
     {
-      "count": 87,
+      "count": 89,
       "message": "Fetched structured library calendar API",
       "ok": true,
       "source": "Pasco libraries",
@@ -6958,64 +6811,64 @@
     },
     {
       "count": 0,
-      "message": "Fetched iCal feed for 2026-08-02",
-      "ok": true,
+      "message": "<urlopen error timed out>",
+      "ok": false,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-02/?ical=1"
     },
     {
       "count": 0,
-      "message": "Fetched iCal feed for 2026-08-03",
-      "ok": true,
+      "message": "<urlopen error timed out>",
+      "ok": false,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-03/?ical=1"
     },
     {
       "count": 0,
-      "message": "Fetched iCal feed for 2026-08-04",
-      "ok": true,
+      "message": "<urlopen error timed out>",
+      "ok": false,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-04/?ical=1"
     },
     {
       "count": 0,
-      "message": "Fetched iCal feed for 2026-08-05",
-      "ok": true,
+      "message": "<urlopen error timed out>",
+      "ok": false,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-05/?ical=1"
     },
     {
       "count": 0,
-      "message": "Fetched iCal feed for 2026-08-06",
-      "ok": true,
+      "message": "<urlopen error timed out>",
+      "ok": false,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-06/?ical=1"
     },
     {
       "count": 0,
-      "message": "Fetched iCal feed for 2026-08-07",
-      "ok": true,
+      "message": "<urlopen error timed out>",
+      "ok": false,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-07/?ical=1"
     },
     {
       "count": 0,
-      "message": "Fetched iCal feed for 2026-08-08",
-      "ok": true,
+      "message": "<urlopen error timed out>",
+      "ok": false,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-08/?ical=1"
     },
     {
       "count": 0,
-      "message": "Fetched iCal feed for 2026-08-09",
-      "ok": true,
+      "message": "<urlopen error timed out>",
+      "ok": false,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-09/?ical=1"
     },
     {
       "count": 0,
-      "message": "Fetched iCal feed for 2026-08-10",
-      "ok": true,
+      "message": "<urlopen error timed out>",
+      "ok": false,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-10/?ical=1"
     },
@@ -7111,63 +6964,63 @@
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-02",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-03",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-04",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-05",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-06",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-07",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-08",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-09",
       "ok": true,
       "source": "Web search leads",
       "url": ""
     },
     {
-      "count": 1,
+      "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-10",
       "ok": true,
       "source": "Web search leads",
