@@ -6079,25 +6079,6 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Official calendar event; excluded if source text indicates a required fee",
-      "description": "Yoga in the Park is back! Join us for Yoga in the Park every Sunday from 6-7 pm, instructed by Latonyia Sumpter with Empowered Wellbeing! This class is located in Curtis Hixon Park, welcomes all yogis, beginner or...",
-      "end": "2026-08-02T20:00:00+00:00",
-      "id": "tampa-downtown-partnership-a47b922f7bc61756",
-      "latitude": null,
-      "location": "Curtis Hixon Waterfront Park, 600 N Ashley Dr, Tampa, FL 33602",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {},
-      "source": "Tampa Downtown Partnership",
-      "source_kind": "event",
-      "start": "2026-08-02T19:00:00+00:00",
-      "title": "Yoga in the Park",
-      "url": "https://www.tampasdowntown.com/events/yoga-in-the-park-16-460-614-264-710-930-608-332-286-297-920-391-855-581-202-113-335-891-950-138-693-838-324-118-549-988-706-389-463-672-889-474-182-405-548-834-521-576-723-973-361-437-707/?occurrence=2026-08-02"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Official calendar event; excluded if source text indicates a required fee",
       "description": "HIIT in the Park will be joining our lineup of FREE Community Fitness classes starting tonight at 6pm! Work up a sweat every Monday in Tampa's Downtown with instructors from Crunch Fitness in Curtis Hixon Park!",
       "end": "2026-08-03T19:00:00+00:00",
       "id": "tampa-downtown-partnership-346cde6b8866fb73",
@@ -6149,6 +6130,25 @@
       "start": "2026-08-05T00:00:00+00:00",
       "title": "OwnerRez Roadshow \u2013 Tampa, FL",
       "url": "https://www.eventbrite.com/e/ownerrez-roadshow-tampa-fl-tickets-1992166655093"
+    },
+    {
+      "all_day": false,
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Official calendar event; excluded if source text indicates a required fee",
+      "description": "Yoga in the Park is back! Join us for Yoga in the Park every Sunday from 6-7 pm, instructed by Latonyia Sumpter with Empowered Wellbeing! This class is located in Curtis Hixon Park, welcomes all yogis, beginner or...",
+      "end": "2026-08-09T20:00:00+00:00",
+      "id": "tampa-downtown-partnership-9cc475f98500ccc7",
+      "latitude": null,
+      "location": "Curtis Hixon Waterfront Park, 600 N Ashley Dr, Tampa, FL 33602",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {},
+      "source": "Tampa Downtown Partnership",
+      "source_kind": "event",
+      "start": "2026-08-09T19:00:00+00:00",
+      "title": "Yoga in the Park",
+      "url": "https://www.tampasdowntown.com/events/yoga-in-the-park-16-460-614-264-710-930-608-332-286-297-920-391-855-581-202-113-335-891-950-138-693-838-324-118-549-988-706-389-463-672-889-474-182-405-548-834-521-576-723-973-361-437-707/?occurrence=2026-08-09"
     },
     {
       "all_day": false,
@@ -6700,7 +6700,7 @@
       "url": "https://www.sunsetsatpier60.com/"
     }
   ],
-  "generated_at": "2026-08-02T15:11:40.823444-04:00",
+  "generated_at": "2026-08-02T22:36:46.237199-04:00",
   "include_search": true,
   "start": "2026-08-02",
   "statuses": [
@@ -6811,64 +6811,64 @@
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-02",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-02/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-03",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-03/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-04",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-04/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-05",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-05/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-06",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-06/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-07",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-07/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-08",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-08/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-09",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-09/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-10",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-10/?ical=1"
     },
