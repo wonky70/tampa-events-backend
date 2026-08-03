@@ -1,6 +1,5 @@
 {
   "days": [
-    "2026-08-02",
     "2026-08-03",
     "2026-08-04",
     "2026-08-05",
@@ -8,9 +7,10 @@
     "2026-08-07",
     "2026-08-08",
     "2026-08-09",
-    "2026-08-10"
+    "2026-08-10",
+    "2026-08-11"
   ],
-  "end": "2026-08-10",
+  "end": "2026-08-11",
   "events": [
     {
       "all_day": true,
@@ -3940,25 +3940,613 @@
       "url": "https://hcplc.libnet.info/event/16465550"
     },
     {
+      "all_day": true,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Developed by the Tampa Museum of Art, this poster series highlights selected works from the Museum's permanent collection.",
+      "end": "2026-08-11T23:59:00+00:00",
+      "id": "hillsborough-libraries-16156573",
+      "latitude": null,
+      "location": "C. Blythe Andrews, Jr. Public Library, Gallery @ 2607",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16156573"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T00:00:00+00:00",
+      "title": "Gallery @ 2607 Presents: Made in Florida: Highlights from the Tampa Museum of Art Collection",
+      "url": "https://hcplc.libnet.info/event/16156573"
+    },
+    {
+      "all_day": true,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Developed by the Tampa Museum of Art, this poster series highlights selected works from the Museum's permanent collection.",
+      "end": "2026-08-11T23:59:00+00:00",
+      "id": "hillsborough-libraries-16156346",
+      "latitude": null,
+      "location": "Robert W. Saunders, Sr. Public Library, Gallery on the Avenue",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16156346"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T00:00:00+00:00",
+      "title": "Gallery on the Avenue: Made in Florida: Highlights from the Tampa Museum of Art Collection",
+      "url": "https://hcplc.libnet.info/event/16156346"
+    },
+    {
+      "all_day": true,
+      "category": "Library",
+      "city": "Riverview",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Developed by the Tampa Museum of Art, this poster series highlights selected works from the Museum's permanent collection.",
+      "end": "2026-08-11T23:59:00+00:00",
+      "id": "hillsborough-libraries-16156851",
+      "latitude": null,
+      "location": "Riverview Public Library",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16156851"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T00:00:00+00:00",
+      "title": "Made in Florida: Highlights from the Tampa Museum of Art Collection",
+      "url": "https://hcplc.libnet.info/event/16156851"
+    },
+    {
+      "all_day": true,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Developed by the Tampa Museum of Art, this poster series highlights selected works from the Museum's permanent collection.",
+      "end": "2026-08-11T23:59:00+00:00",
+      "id": "hillsborough-libraries-16155977",
+      "latitude": null,
+      "location": "Jimmie B. Keel Regional Library, Gallery @ 2902",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16155977"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T00:00:00+00:00",
+      "title": "Gallery @ 2902 Presents: Made in Florida: Highlights from the Tampa Museum of Art Collection",
+      "url": "https://hcplc.libnet.info/event/16155977"
+    },
+    {
+      "all_day": true,
+      "category": "Library",
+      "city": "Tampa",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Developed by the Tampa Museum of Art, this poster series highlights selected works from the Museum's permanent collection.",
+      "end": "2026-08-11T23:59:00+00:00",
+      "id": "hillsborough-libraries-16309859",
+      "latitude": null,
+      "location": "North Tampa Branch Library, Gallery on the Boulevard",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16309859"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T00:00:00+00:00",
+      "title": "Gallery on the Boulevard Presents: Made in Florida: Highlights from the Tampa Museum of Art Collection",
+      "url": "https://hcplc.libnet.info/event/16309859"
+    },
+    {
+      "all_day": true,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Developed by the Tampa Museum of Art, this poster series highlights selected works from the Museum's permanent collection.",
+      "end": "2026-08-11T23:59:00+00:00",
+      "id": "hillsborough-libraries-16156711",
+      "latitude": null,
+      "location": "Town 'N Country Regional Public Library",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16156711"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T00:00:00+00:00",
+      "title": "Made in Florida: Highlights from the Tampa Museum of Art Collection",
+      "url": "https://hcplc.libnet.info/event/16156711"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Riverview",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join us for a discussion of Tell Me Everything by Elizabeth Strout.",
+      "end": "2026-08-11T11:15:00+00:00",
+      "id": "hillsborough-libraries-16465551",
+      "latitude": null,
+      "location": "Riverview Public Library, Gretchen Del Savio Conference Room 137",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16465551"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T10:15:00+00:00",
+      "title": "Book Discussion: Tell Me Everything by Elizabeth Strout",
+      "url": "https://hcplc.libnet.info/event/16465551"
+    },
+    {
       "all_day": false,
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Let's Laugh! Victoria Dym, author and Certified Laughter Yoga Leader, will lead the group in this intro to laughter yoga session.",
-      "end": "2026-08-02T16:00:00+00:00",
-      "id": "pasco-libraries-16791106",
+      "description": "Join Ms. Erin for 30 minutes of interactive stories, music, and movement. For children ages 2-5 (siblings welcome) with their caregiver.",
+      "end": "2026-08-11T11:00:00+00:00",
+      "id": "hillsborough-libraries-16849708",
       "latitude": null,
-      "location": "Starkey Ranch Theatre Library Cultural Center, Heron Room",
+      "location": "Bruton Memorial Library",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "library_event_id": "16791106"
+        "library_event_id": "16849708"
       },
-      "source": "Pasco libraries",
+      "source": "Hillsborough libraries",
       "source_kind": "library",
-      "start": "2026-08-02T15:00:00+00:00",
-      "title": "Laughter Yoga",
-      "url": "https://pascolibraries.libnet.info/event/16791106"
+      "start": "2026-08-11T10:30:00+00:00",
+      "title": "Musical Storytime",
+      "url": "https://hcplc.libnet.info/event/16849708"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Lutz",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join us for a book discussion of The Academy by Elin Hilderbrand.",
+      "end": "2026-08-11T12:00:00+00:00",
+      "id": "hillsborough-libraries-16332112",
+      "latitude": null,
+      "location": "Lutz Branch Library, Community Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16332112"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T11:00:00+00:00",
+      "title": "Book Discussion: The Academy",
+      "url": "https://hcplc.libnet.info/event/16332112"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Bring your tech questions to the library! Our staff can provide introductory assistance with your computer, tablet, smartphone, or eReader",
+      "end": "2026-08-11T12:00:00+00:00",
+      "id": "hillsborough-libraries-16645898",
+      "latitude": null,
+      "location": "Charles J. Fendig Public Library, Community Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16645898"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T11:00:00+00:00",
+      "title": "Tech Help ",
+      "url": "https://hcplc.libnet.info/event/16645898"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Riverview",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Visit our Recording Studio for a tour and overview of the devices and software available for use. NOTE: This is not a training for recording studio equipment or software.",
+      "end": "2026-08-11T14:30:00+00:00",
+      "id": "hillsborough-libraries-13617050",
+      "latitude": null,
+      "location": "Riverview Public Library, Recording Studio",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "13617050"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T14:00:00+00:00",
+      "title": "Recording Studio Orientation",
+      "url": "https://hcplc.libnet.info/event/13617050"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Riverview",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Visit our Recording Studio for a tour and overview of the devices and software available for use. NOTE: This is not a training for recording studio equipment or software.",
+      "end": "2026-08-11T15:00:00+00:00",
+      "id": "hillsborough-libraries-13617793",
+      "latitude": null,
+      "location": "Riverview Public Library, Recording Studio",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "13617793"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T14:30:00+00:00",
+      "title": "Recording Studio Orientation",
+      "url": "https://hcplc.libnet.info/event/13617793"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Tampa",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Learn to make a tote bag with this hands-on beginner friendly sewing project. Participants will also learn sewing terms and how to use the basic functions of a sewing machine.",
+      "end": "2026-08-11T17:00:00+00:00",
+      "id": "hillsborough-libraries-16505938",
+      "latitude": null,
+      "location": "North Tampa Branch Library, Classroom (Room 9)",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16505938"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T15:00:00+00:00",
+      "title": "Sewing Workshop: Library Tote Bag",
+      "url": "https://hcplc.libnet.info/event/16505938"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Come work on your latest crochet project or learn some beginning steps! For ages 9 and up. Registration is not required, but space is limited and offered on a first-come-first-served basis.",
+      "end": "2026-08-11T16:00:00+00:00",
+      "id": "hillsborough-libraries-16849767",
+      "latitude": null,
+      "location": "Bruton Memorial Library, Marion Cook ",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16849767"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T15:00:00+00:00",
+      "title": "Crochet Buddies",
+      "url": "https://hcplc.libnet.info/event/16849767"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Interactive, trauma-informed nutrition lessons that include a food demonstration with a focus on nutrition, movement, and building skills while reducing household food waste.",
+      "end": "2026-08-11T16:30:00+00:00",
+      "id": "hillsborough-libraries-16199253",
+      "latitude": null,
+      "location": "Maureen B. Gauzza Public Library",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16199253"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T15:30:00+00:00",
+      "title": "Leah's Pantry: Food Smarts : with Feeding Tampa Bay",
+      "url": "https://hcplc.libnet.info/event/16199253"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Discover how the appearance of books has changed throughout history from scrolls to the modern printing press and learn how to hand-bind a book to take home.",
+      "end": "2026-08-11T16:30:00+00:00",
+      "id": "hillsborough-libraries-16797853",
+      "latitude": null,
+      "location": "Bloomingdale Regional Public Library, Room 211",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16797853"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T15:30:00+00:00",
+      "title": "Bookbinding for Kids",
+      "url": "https://hcplc.libnet.info/event/16797853"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Learn how Scratch art works and why Art is important.",
+      "end": "2026-08-11T17:00:00+00:00",
+      "id": "hillsborough-libraries-16399541",
+      "latitude": null,
+      "location": "Robert W. Saunders, Sr. Public Library, African American History and Genealogy Library",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16399541"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T16:00:00+00:00",
+      "title": "The Science of Scratch Art",
+      "url": "https://hcplc.libnet.info/event/16399541"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Engage in a hands-on STEAM activity. Today's focus is Invisible Ink",
+      "end": "2026-08-11T17:00:00+00:00",
+      "id": "hillsborough-libraries-16794825",
+      "latitude": null,
+      "location": "Thonotosassa Branch Library, Community Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16794825"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T16:00:00+00:00",
+      "title": " Steam Time:: Invisible Ink",
+      "url": "https://hcplc.libnet.info/event/16794825"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Tampa",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Blackout poetry. Attendees will use existing text to create their own poems.",
+      "end": "2026-08-11T17:00:00+00:00",
+      "id": "hillsborough-libraries-16802684",
+      "latitude": null,
+      "location": "Port Tampa City Library, James G. Yeats Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16802684"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T16:00:00+00:00",
+      "title": "Blackout Poetry for Teens",
+      "url": "https://hcplc.libnet.info/event/16802684"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "A beginner-friendly sewing class that will focus on hand sewing projects over the summer. Supplies will be provided but space is limited so register today!",
+      "end": "2026-08-11T17:30:00+00:00",
+      "id": "hillsborough-libraries-17047397",
+      "latitude": null,
+      "location": "Bruton Memorial Library, Marion Cook ",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "17047397"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T16:30:00+00:00",
+      "title": "Sew Good",
+      "url": "https://hcplc.libnet.info/event/17047397"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Brandon",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Bring your tech questions to the library! Our staff can provide introductory assistance with your computer, tablet, smartphone, or eReader.",
+      "end": "2026-08-11T17:30:00+00:00",
+      "id": "hillsborough-libraries-16488119",
+      "latitude": null,
+      "location": "Brandon Regional Library, Margaret Linsley Clayton Community Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16488119"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T17:00:00+00:00",
+      "title": "Tech Help",
+      "url": "https://hcplc.libnet.info/event/16488119"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Brandon",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Bring your tech questions to the library! Our staff can provide introductory assistance with your computer, tablet, smartphone, or eReader.",
+      "end": "2026-08-11T18:00:00+00:00",
+      "id": "hillsborough-libraries-16488120",
+      "latitude": null,
+      "location": "Brandon Regional Library, Margaret Linsley Clayton Community Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16488120"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T17:30:00+00:00",
+      "title": "Tech Help",
+      "url": "https://hcplc.libnet.info/event/16488120"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Seminole",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Drop in during our Open Lab hours to use our sewing machines and supplies! You can work on your own project or request assistance from library staff.",
+      "end": "2026-08-11T19:30:00+00:00",
+      "id": "hillsborough-libraries-16696263",
+      "latitude": null,
+      "location": "Seminole Heights Branch Library, The Hive",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16696263"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T17:30:00+00:00",
+      "title": "Makerspace Open Lab: Sewing Workshop",
+      "url": "https://hcplc.libnet.info/event/16696263"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Brandon",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join us for a relaxing session of exploring the psychology and benefits of adult coloring, working with pictures, and socializing.",
+      "end": "2026-08-11T19:00:00+00:00",
+      "id": "hillsborough-libraries-16475157",
+      "latitude": null,
+      "location": "Brandon Regional Library, Room 1",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16475157"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T18:00:00+00:00",
+      "title": "Relax With Adult Coloring",
+      "url": "https://hcplc.libnet.info/event/16475157"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Riverview",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Visit our Recording Studio for a tour and overview of the devices and software available for use. NOTE: This is not a training for recording studio equipment or software.",
+      "end": "2026-08-11T19:30:00+00:00",
+      "id": "hillsborough-libraries-13617853",
+      "latitude": null,
+      "location": "Riverview Public Library, Recording Studio",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "13617853"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T19:00:00+00:00",
+      "title": "Recording Studio Orientation",
+      "url": "https://hcplc.libnet.info/event/13617853"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Learn about life as a programmer from real-life coders via video and get started with Fiero Code.",
+      "end": "2026-08-11T20:00:00+00:00",
+      "id": "hillsborough-libraries-16758455",
+      "latitude": null,
+      "location": "Bloomingdale Regional Public Library, Room 211",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16758455"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T19:00:00+00:00",
+      "title": "Fiero Code for Teens",
+      "url": "https://hcplc.libnet.info/event/16758455"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Learn how to be safer online with accounts and passwords and get an overview of frauds and scams.",
+      "end": "2026-08-11T20:30:00+00:00",
+      "id": "hillsborough-libraries-16763722",
+      "latitude": null,
+      "location": "C. Blythe Andrews, Jr. Public Library, Room 204",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16763722"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T19:00:00+00:00",
+      "title": "Cyber Security Basics  ",
+      "url": "https://hcplc.libnet.info/event/16763722"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Learn how to access digital library content, step-by-step, using the Libby and Hoopla apps. Bring your device, any app store passwords, and your library card number and PIN to download the apps.",
+      "end": "2026-08-11T20:00:00+00:00",
+      "id": "hillsborough-libraries-16922925",
+      "latitude": null,
+      "location": "John F. Germany Public Library, Cecil Beach Conference Room ",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16922925"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T19:00:00+00:00",
+      "title": "Library eBooks and Audiobooks ",
+      "url": "https://hcplc.libnet.info/event/16922925"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Riverview",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Visit our Recording Studio for a tour and overview of the devices and software available for use. NOTE: This is not a training for recording studio equipment or software.",
+      "end": "2026-08-11T20:00:00+00:00",
+      "id": "hillsborough-libraries-13616631",
+      "latitude": null,
+      "location": "Riverview Public Library, Recording Studio",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "13616631"
+      },
+      "source": "Hillsborough libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T19:30:00+00:00",
+      "title": "Recording Studio Orientation",
+      "url": "https://hcplc.libnet.info/event/13616631"
     },
     {
       "all_day": false,
@@ -4110,23 +4698,23 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "Land O'Lakes",
+      "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "This activity is intended for ages 18 years & older or youth age 9 years & older with an accompanying guardian.",
-      "end": "2026-08-04T11:30:00+00:00",
-      "id": "pasco-libraries-16807032",
+      "description": "Representatives from Career Source will be available for assistance with employment searches, resume writing, interviewing preparation, EmployFlorida assistance and more!",
+      "end": "2026-08-04T12:00:00+00:00",
+      "id": "pasco-libraries-15595948",
       "latitude": null,
-      "location": "Land O'Lakes Branch, Multipurpose Room D - Foundry",
+      "location": "Centennial Park Branch, Study Room B",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "library_event_id": "16807032"
+        "library_event_id": "15595948"
       },
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-04T10:00:00+00:00",
-      "title": "Woodworking Open Build",
-      "url": "https://pascolibraries.libnet.info/event/16807032"
+      "title": "Career Source Employment Assistance ",
+      "url": "https://pascolibraries.libnet.info/event/15595948"
     },
     {
       "all_day": false,
@@ -4152,23 +4740,23 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "",
+      "city": "Land O'Lakes",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Representatives from Career Source will be available for assistance with employment searches, resume writing, interviewing preparation, EmployFlorida assistance and more!",
-      "end": "2026-08-04T12:00:00+00:00",
-      "id": "pasco-libraries-15595948",
+      "description": "This activity is intended for ages 18 years & older or youth age 9 years & older with an accompanying guardian.",
+      "end": "2026-08-04T11:30:00+00:00",
+      "id": "pasco-libraries-16807032",
       "latitude": null,
-      "location": "Centennial Park Branch, Study Room B",
+      "location": "Land O'Lakes Branch, Multipurpose Room D - Foundry",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "library_event_id": "15595948"
+        "library_event_id": "16807032"
       },
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-04T10:00:00+00:00",
-      "title": "Career Source Employment Assistance ",
-      "url": "https://pascolibraries.libnet.info/event/15595948"
+      "title": "Woodworking Open Build",
+      "url": "https://pascolibraries.libnet.info/event/16807032"
     },
     {
       "all_day": false,
@@ -4299,23 +4887,23 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "New Port Richey",
+      "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Please join us for our Book Social! Gather with fellow book worms to snack, chat, swap books and make intentional time to read! This club will meet at Mochinut New Port Richey.",
+      "description": "English conversation for speakers of other languages. Practice your English speaking skills in a group on Zoom.",
       "end": "2026-08-04T15:00:00+00:00",
-      "id": "pasco-libraries-16898739",
+      "id": "pasco-libraries-16657981",
       "latitude": null,
-      "location": "Mochinut New Port Richey",
+      "location": "South Holiday Branch",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "library_event_id": "16898739"
+        "library_event_id": "16657981"
       },
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-04T14:00:00+00:00",
-      "title": "Hudson Book Social",
-      "url": "https://pascolibraries.libnet.info/event/16898739"
+      "title": "English Conversation Group - South Holiday",
+      "url": "https://pascolibraries.libnet.info/event/16657981"
     },
     {
       "all_day": false,
@@ -4341,44 +4929,23 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "",
+      "city": "New Port Richey",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "English conversation for speakers of other languages. Practice your English speaking skills in a group on Zoom.",
+      "description": "Please join us for our Book Social! Gather with fellow book worms to snack, chat, swap books and make intentional time to read! This club will meet at Mochinut New Port Richey.",
       "end": "2026-08-04T15:00:00+00:00",
-      "id": "pasco-libraries-16657981",
+      "id": "pasco-libraries-16898739",
       "latitude": null,
-      "location": "South Holiday Branch",
+      "location": "Mochinut New Port Richey",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "library_event_id": "16657981"
+        "library_event_id": "16898739"
       },
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-04T14:00:00+00:00",
-      "title": "English Conversation Group - South Holiday",
-      "url": "https://pascolibraries.libnet.info/event/16657981"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Calling all adventurers!! Join us in our new Dungeons and Dragons Club! New and experience adventurers are welcome! This club is for tweens and teens.",
-      "end": "2026-08-04T17:00:00+00:00",
-      "id": "pasco-libraries-16496012",
-      "latitude": null,
-      "location": "Starkey Ranch Theatre Library Cultural Center, Egret Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16496012"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-04T15:00:00+00:00",
-      "title": "Dungeons and Dragons Club: Starkey Dungeon Crawlers",
-      "url": "https://pascolibraries.libnet.info/event/16496012"
+      "title": "Hudson Book Social",
+      "url": "https://pascolibraries.libnet.info/event/16898739"
     },
     {
       "all_day": false,
@@ -4400,6 +4967,27 @@
       "start": "2026-08-04T15:00:00+00:00",
       "title": "Chess Club",
       "url": "https://pascolibraries.libnet.info/event/16044509"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Calling all adventurers!! Join us in our new Dungeons and Dragons Club! New and experience adventurers are welcome! This club is for tweens and teens.",
+      "end": "2026-08-04T17:00:00+00:00",
+      "id": "pasco-libraries-16496012",
+      "latitude": null,
+      "location": "Starkey Ranch Theatre Library Cultural Center, Egret Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16496012"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-04T15:00:00+00:00",
+      "title": "Dungeons and Dragons Club: Starkey Dungeon Crawlers",
+      "url": "https://pascolibraries.libnet.info/event/16496012"
     },
     {
       "all_day": false,
@@ -4551,27 +5139,6 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "Wesley Chapel",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "This lap-sit program is meant to instill the love of reading in children at an early age. It is suitable for babies up to 1 year old and their caregiver(s). Program is ticketed, 1st come 1st served.",
-      "end": "2026-08-05T11:00:00+00:00",
-      "id": "pasco-libraries-16489563",
-      "latitude": null,
-      "location": "Wesley Chapel Branch, Multipurpose Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16489563"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-05T10:30:00+00:00",
-      "title": "Baby Storytime at Wesley Chapel Library",
-      "url": "https://pascolibraries.libnet.info/event/16489563"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
       "city": "Zephyrhills",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "An accessible form of yoga in which participants use a chair to support their bodies in various modified poses. Space is limited. Please call 813-780-0064 to register.",
@@ -4589,6 +5156,27 @@
       "start": "2026-08-05T10:30:00+00:00",
       "title": "Chair Yoga: 10:30AM",
       "url": "https://pascolibraries.libnet.info/event/16281897"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Wesley Chapel",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "This lap-sit program is meant to instill the love of reading in children at an early age. It is suitable for babies up to 1 year old and their caregiver(s). Program is ticketed, 1st come 1st served.",
+      "end": "2026-08-05T11:00:00+00:00",
+      "id": "pasco-libraries-16489563",
+      "latitude": null,
+      "location": "Wesley Chapel Branch, Multipurpose Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16489563"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-05T10:30:00+00:00",
+      "title": "Baby Storytime at Wesley Chapel Library",
+      "url": "https://pascolibraries.libnet.info/event/16489563"
     },
     {
       "all_day": false,
@@ -4635,6 +5223,27 @@
     {
       "all_day": false,
       "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "All are welcome to become a Friend of the New River Library!",
+      "end": "2026-08-05T15:00:00+00:00",
+      "id": "pasco-libraries-15034626",
+      "latitude": null,
+      "location": "New River Branch, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "15034626"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-05T14:00:00+00:00",
+      "title": "Friends of the New River Library Quarterly Meeting",
+      "url": "https://pascolibraries.libnet.info/event/15034626"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
       "city": "Land O'Lakes",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Join us as we make a quilt as you go square! All materials will be provided. Ages 9+ including adults. Close toed shoes and safety waiver required.",
@@ -4673,27 +5282,6 @@
       "start": "2026-08-05T14:00:00+00:00",
       "title": "Tiara Club",
       "url": "https://pascolibraries.libnet.info/event/16890230"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "All are welcome to become a Friend of the New River Library!",
-      "end": "2026-08-05T15:00:00+00:00",
-      "id": "pasco-libraries-15034626",
-      "latitude": null,
-      "location": "New River Branch, Meeting Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "15034626"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-05T14:00:00+00:00",
-      "title": "Friends of the New River Library Quarterly Meeting",
-      "url": "https://pascolibraries.libnet.info/event/15034626"
     },
     {
       "all_day": false,
@@ -4784,6 +5372,27 @@
       "category": "Library",
       "city": "Land O'Lakes",
       "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join us for a presentation from Master Gardener.",
+      "end": "2026-08-05T19:00:00+00:00",
+      "id": "pasco-libraries-16723251",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16723251"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-05T18:00:00+00:00",
+      "title": "Master Gardener",
+      "url": "https://pascolibraries.libnet.info/event/16723251"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Join trained tutors to improve your English language skills.",
       "end": "2026-08-05T19:30:00+00:00",
       "id": "pasco-libraries-16723277",
@@ -4820,27 +5429,6 @@
       "start": "2026-08-05T18:00:00+00:00",
       "title": "English Conversation Corner - Wesley Chapel",
       "url": "https://pascolibraries.libnet.info/event/16837051"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "Land O'Lakes",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Join us for a presentation from Master Gardener.",
-      "end": "2026-08-05T19:00:00+00:00",
-      "id": "pasco-libraries-16723251",
-      "latitude": null,
-      "location": "Land O'Lakes Branch, Meeting Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16723251"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-05T18:00:00+00:00",
-      "title": "Master Gardener",
-      "url": "https://pascolibraries.libnet.info/event/16723251"
     },
     {
       "all_day": false,
@@ -4887,27 +5475,6 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "Land O'Lakes",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "A trained support group facilitator from the Alzheimer's Association will be leading this monthly support group for caregivers of individuals with Alzheimer's.",
-      "end": "2026-08-06T11:30:00+00:00",
-      "id": "pasco-libraries-16723526",
-      "latitude": null,
-      "location": "Land O'Lakes Branch, Meeting Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16723526"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-06T10:00:00+00:00",
-      "title": "Alzheimer's Caregiver Support Group",
-      "url": "https://pascolibraries.libnet.info/event/16723526"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Library staff are available for computer or mobile device basics. Bring your own device, or use a public computer. Registration is required. For information, call Hugh Embry Library: 352-567-3576.",
@@ -4925,6 +5492,27 @@
       "start": "2026-08-06T10:00:00+00:00",
       "title": "Tech Help at Hugh Embry: Registration Required",
       "url": "https://pascolibraries.libnet.info/event/16715195"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "A trained support group facilitator from the Alzheimer's Association will be leading this monthly support group for caregivers of individuals with Alzheimer's.",
+      "end": "2026-08-06T11:30:00+00:00",
+      "id": "pasco-libraries-16723526",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16723526"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-06T10:00:00+00:00",
+      "title": "Alzheimer's Caregiver Support Group",
+      "url": "https://pascolibraries.libnet.info/event/16723526"
     },
     {
       "all_day": false,
@@ -5034,27 +5622,6 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Library staff are available for computer or mobile device basics. Bring your own device, or use a public computer. Registration is required. For information, call Hugh Embry Library: 352-567-3576.",
-      "end": "2026-08-06T12:00:00+00:00",
-      "id": "pasco-libraries-16715202",
-      "latitude": null,
-      "location": "Hugh Embry Branch, Teen Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16715202"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-06T11:00:00+00:00",
-      "title": "Tech Help at Hugh Embry: Registration Required",
-      "url": "https://pascolibraries.libnet.info/event/16715202"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
       "city": "Wesley Chapel",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Bring your questions to our Master Gardener Volunteers for trusted, science-based gardening guidance on lawn and garden issues specific to Central Florida.",
@@ -5072,6 +5639,27 @@
       "start": "2026-08-06T11:00:00+00:00",
       "title": "Master Gardeners: Ask a Master Gardener Volunteer",
       "url": "https://pascolibraries.libnet.info/event/16646594"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Library staff are available for computer or mobile device basics. Bring your own device, or use a public computer. Registration is required. For information, call Hugh Embry Library: 352-567-3576.",
+      "end": "2026-08-06T12:00:00+00:00",
+      "id": "pasco-libraries-16715202",
+      "latitude": null,
+      "location": "Hugh Embry Branch, Teen Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16715202"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-06T11:00:00+00:00",
+      "title": "Tech Help at Hugh Embry: Registration Required",
+      "url": "https://pascolibraries.libnet.info/event/16715202"
     },
     {
       "all_day": false,
@@ -5225,27 +5813,6 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Join trained tutors to improve your English language skills.",
-      "end": "2026-08-07T11:30:00+00:00",
-      "id": "pasco-libraries-16715210",
-      "latitude": null,
-      "location": "Hugh Embry Branch, Meeting Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16715210"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-07T10:00:00+00:00",
-      "title": "English Conversation Corner - Hugh Embry",
-      "url": "https://pascolibraries.libnet.info/event/16715210"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "English conversation for speakers of other languages. Practice your English speaking skills in a group on Zoom.",
       "end": "2026-08-07T11:30:00+00:00",
       "id": "pasco-libraries-16658038",
@@ -5261,6 +5828,27 @@
       "start": "2026-08-07T10:00:00+00:00",
       "title": "English Conversation Group - South Holiday",
       "url": "https://pascolibraries.libnet.info/event/16658038"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join trained tutors to improve your English language skills.",
+      "end": "2026-08-07T11:30:00+00:00",
+      "id": "pasco-libraries-16715210",
+      "latitude": null,
+      "location": "Hugh Embry Branch, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16715210"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-07T10:00:00+00:00",
+      "title": "English Conversation Corner - Hugh Embry",
+      "url": "https://pascolibraries.libnet.info/event/16715210"
     },
     {
       "all_day": false,
@@ -5391,27 +5979,6 @@
     {
       "all_day": false,
       "category": "Library",
-      "city": "Land O'Lakes",
-      "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "This event is intended for ages 18 years and older. Two sessions will be offered. Choose if you prefer to attend from 9:00-12:00 or 12:30-3:30. Some previous lathe experience is required to register.",
-      "end": "2026-08-08T12:00:00+00:00",
-      "id": "pasco-libraries-17096736",
-      "latitude": null,
-      "location": "Land O'Lakes Branch, Multipurpose Room D - Foundry",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "17096736"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-08T09:00:00+00:00",
-      "title": "Tri County Woodturners Turn & Learn",
-      "url": "https://pascolibraries.libnet.info/event/17096736"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
       "city": "Zephyrhills",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Bring your questions on plants to this FREE Ask a Master Gardener and get all your gardening questions answered.",
@@ -5429,6 +5996,27 @@
       "start": "2026-08-08T09:00:00+00:00",
       "title": "Ask a Master Gardener",
       "url": "https://pascolibraries.libnet.info/event/15954110"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "This event is intended for ages 18 years and older. Two sessions will be offered. Choose if you prefer to attend from 9:00-12:00 or 12:30-3:30. Some previous lathe experience is required to register.",
+      "end": "2026-08-08T12:00:00+00:00",
+      "id": "pasco-libraries-17096736",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Multipurpose Room D - Foundry",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "17096736"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-08T09:00:00+00:00",
+      "title": "Tri County Woodturners Turn & Learn",
+      "url": "https://pascolibraries.libnet.info/event/17096736"
     },
     {
       "all_day": false,
@@ -5456,27 +6044,6 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Back to School Bash",
-      "end": "2026-08-08T12:00:00+00:00",
-      "id": "pasco-libraries-16698557",
-      "latitude": null,
-      "location": "Regency Park Branch, Meeting Room,Storytime Room",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "16698557"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-08T10:00:00+00:00",
-      "title": "Back to School Bash ",
-      "url": "https://pascolibraries.libnet.info/event/16698557"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "This is a one hour basic skills class for English language learners who have limited English fluency. The class is taught in English and is held on Zoom.",
       "end": "2026-08-08T11:00:00+00:00",
       "id": "pasco-libraries-16657911",
@@ -5492,6 +6059,27 @@
       "start": "2026-08-08T10:00:00+00:00",
       "title": "English Basic Skills",
       "url": "https://pascolibraries.libnet.info/event/16657911"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Back to School Bash",
+      "end": "2026-08-08T12:00:00+00:00",
+      "id": "pasco-libraries-16698557",
+      "latitude": null,
+      "location": "Regency Park Branch, Meeting Room,Storytime Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16698557"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-08T10:00:00+00:00",
+      "title": "Back to School Bash ",
+      "url": "https://pascolibraries.libnet.info/event/16698557"
     },
     {
       "all_day": false,
@@ -5708,27 +6296,6 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "Appointment slots for community closet for crafters and artists",
-      "end": "2026-08-10T18:00:00+00:00",
-      "id": "pasco-libraries-17053097",
-      "latitude": null,
-      "location": "Centennial Park Branch, Loft Closet",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "library_event_id": "17053097"
-      },
-      "source": "Pasco libraries",
-      "source_kind": "library",
-      "start": "2026-08-10T16:00:00+00:00",
-      "title": "Free Art Closet by Appointment",
-      "url": "https://pascolibraries.libnet.info/event/17053097"
-    },
-    {
-      "all_day": false,
-      "category": "Library",
-      "city": "",
-      "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Help the Hugh Embry Library design programs specifically for Teens. Pizza will be provided.",
       "end": "2026-08-10T17:00:00+00:00",
       "id": "pasco-libraries-16756688",
@@ -5744,6 +6311,27 @@
       "start": "2026-08-10T16:00:00+00:00",
       "title": "(TAB) Teen Advisory Board",
       "url": "https://pascolibraries.libnet.info/event/16756688"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Appointment slots for community closet for crafters and artists",
+      "end": "2026-08-10T18:00:00+00:00",
+      "id": "pasco-libraries-17053097",
+      "latitude": null,
+      "location": "Centennial Park Branch, Loft Closet",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "17053097"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-10T16:00:00+00:00",
+      "title": "Free Art Closet by Appointment",
+      "url": "https://pascolibraries.libnet.info/event/17053097"
     },
     {
       "all_day": false,
@@ -5809,23 +6397,403 @@
       "url": "https://pascolibraries.libnet.info/event/16754764"
     },
     {
-      "all_day": true,
+      "all_day": false,
       "category": "Library",
-      "city": "New Port Richey",
+      "city": "Zephyrhills",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "",
-      "end": "2026-08-02T23:59:00-04:00",
-      "id": "new-port-richey-library-09b90ecd28ccfc4b",
+      "description": "Will help you apply for QMB state buy-in program to help pay for Medicare part B premium, \"Medicaid\" and food stamps (\"SNAP\"). Contact Jos\u00e9 Rodr\u00edguez at 813-420-3013 for more information.",
+      "end": "2026-08-11T15:00:00+00:00",
+      "id": "pasco-libraries-16044972",
       "latitude": null,
-      "location": "New Port Richey Public Library",
+      "location": "Zephyrhills Public Library, Library Floor",
       "longitude": null,
       "needs_review": false,
-      "raw": {},
-      "source": "New Port Richey library",
+      "raw": {
+        "library_event_id": "16044972"
+      },
+      "source": "Pasco libraries",
       "source_kind": "library",
-      "start": "2026-08-02T00:00:00-04:00",
-      "title": "Octopus Scavenger Hunt",
-      "url": "https://newportrichey.librarycalendar.com/event/octopus-scavenger-hunt-30678"
+      "start": "2026-08-11T09:00:00+00:00",
+      "title": "Medicare/Medicaid & SNAP Help",
+      "url": "https://pascolibraries.libnet.info/event/16044972"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Zephyrhills",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "A functional strength and stability program designed to improve balance, posture, joint integrity, and real-life movement mechanics for adults of all fitness levels. Registration is recommended.",
+      "end": "2026-08-11T10:30:00+00:00",
+      "id": "pasco-libraries-16044331",
+      "latitude": null,
+      "location": "Zephyrhills Public Library, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16044331"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T09:30:00+00:00",
+      "title": "MoveFactor Strength Foundations",
+      "url": "https://pascolibraries.libnet.info/event/16044331"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Representatives from Career Source will be available for assistance with employment searches, resume writing, interviewing preparation, EmployFlorida assistance and more!",
+      "end": "2026-08-11T12:00:00+00:00",
+      "id": "pasco-libraries-14454211",
+      "latitude": null,
+      "location": "Regency Park Branch, Library Floor",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "14454211"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T10:00:00+00:00",
+      "title": "Career Source",
+      "url": "https://pascolibraries.libnet.info/event/14454211"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join the Friends of the Library for a weekly book sale.",
+      "end": "2026-08-11T12:00:00+00:00",
+      "id": "pasco-libraries-16764633",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Multipurpose Room B - Children's",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16764633"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T10:00:00+00:00",
+      "title": "Friends of the Library Book Sale",
+      "url": "https://pascolibraries.libnet.info/event/16764633"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "This activity is intended for ages 18 years & older or youth age 9 years & older with an accompanying guardian.",
+      "end": "2026-08-11T11:30:00+00:00",
+      "id": "pasco-libraries-16807034",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Multipurpose Room D - Foundry",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16807034"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T10:00:00+00:00",
+      "title": "Woodworking Open Build",
+      "url": "https://pascolibraries.libnet.info/event/16807034"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Storytime for ages 1 and up and their caregivers",
+      "end": "2026-08-11T10:40:00+00:00",
+      "id": "pasco-libraries-17080566",
+      "latitude": null,
+      "location": "Starkey Ranch Theatre Library Cultural Center, Heron Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "17080566"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T10:10:00+00:00",
+      "title": "Toddler Story Time with Ms. Becky & Ms. Maria -  Session 1: Storytime for Toddlers ages 1 - 3 and their caregivers",
+      "url": "https://pascolibraries.libnet.info/event/17080566"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Wesley Chapel",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Storytime program for Preschoolers aged 3-5 years and their caregiver(s). This is a ticketed program. Tickets are free and issued on a first come first served basis.",
+      "end": "2026-08-11T11:00:00+00:00",
+      "id": "pasco-libraries-16489001",
+      "latitude": null,
+      "location": "Wesley Chapel Branch, Multipurpose Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16489001"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T10:30:00+00:00",
+      "title": "Preschool Storytime at Wesley Chapel Library: 3's, 4's, & Fabulous 5's!",
+      "url": "https://pascolibraries.libnet.info/event/16489001"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Zephyrhills",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join us for stories, crafts, and a photo opportunity with Scoopie! Miss Jessica from the Zephyrhills Library will be sharing the stories. This program will be held at the Zephyrhills Culver's.",
+      "end": "2026-08-11T11:30:00+00:00",
+      "id": "pasco-libraries-16888600",
+      "latitude": null,
+      "location": "Zephyrhills Culver's",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16888600"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T10:30:00+00:00",
+      "title": "Storytime with Scoopie",
+      "url": "https://pascolibraries.libnet.info/event/16888600"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Storytime for toddlers ages 1-3 and their caregiver.",
+      "end": "2026-08-11T11:00:00+00:00",
+      "id": "pasco-libraries-17080585",
+      "latitude": null,
+      "location": "Starkey Ranch Theatre Library Cultural Center",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "17080585"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T10:50:00+00:00",
+      "title": "Toddler Storytime w/ Ms. Becky & Ms. Maria Session 2: Storytime for toddlers ages 1-3 and their caregiver.",
+      "url": "https://pascolibraries.libnet.info/event/17080585"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Zephyrhills",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join CarePatrol staff for an informal, drop-in coffee morning where attendees can enjoy light refreshments and learn about senior care options.",
+      "end": "2026-08-11T12:00:00+00:00",
+      "id": "pasco-libraries-16285776",
+      "latitude": null,
+      "location": "Zephyrhills Public Library, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16285776"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T11:00:00+00:00",
+      "title": "Coffee & Care",
+      "url": "https://pascolibraries.libnet.info/event/16285776"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Wesley Chapel",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Storytime program for Preschoolers aged 3-5 years and their caregiver(s). This is a ticketed program. Tickets are free and issued on a first come first served basis.",
+      "end": "2026-08-11T11:45:00+00:00",
+      "id": "pasco-libraries-16489255",
+      "latitude": null,
+      "location": "Wesley Chapel Branch, Multipurpose Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16489255"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T11:15:00+00:00",
+      "title": "Preschool Storytime at Wesley Chapel Library: 3's, 4's, & Fabulous 5's!",
+      "url": "https://pascolibraries.libnet.info/event/16489255"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "This activity is intended for ages 18 years & older or youth age 9 years & older with an accompanying guardian.",
+      "end": "2026-08-11T13:00:00+00:00",
+      "id": "pasco-libraries-16807038",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Multipurpose Room D - Foundry",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16807038"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T11:30:00+00:00",
+      "title": "Woodworking Open Build",
+      "url": "https://pascolibraries.libnet.info/event/16807038"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join other yarn enthusiasts for a weekly gathering. Participants talk about projects and share tips and suggestions. For more information, please call Hugh Embry Library at 352-567-3576.",
+      "end": "2026-08-11T13:45:00+00:00",
+      "id": "pasco-libraries-16755148",
+      "latitude": null,
+      "location": "Hugh Embry Branch, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16755148"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T12:15:00+00:00",
+      "title": "Yarn for More",
+      "url": "https://pascolibraries.libnet.info/event/16755148"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Come meet other readers and have discussions about books! Our book club meets once a month to share ideas about the chosen book, find new favorites, and enjoy good conversation.",
+      "end": "2026-08-11T15:00:00+00:00",
+      "id": "pasco-libraries-16080627",
+      "latitude": null,
+      "location": "Regency Park Branch, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16080627"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T14:00:00+00:00",
+      "title": "Regency Park Book Club",
+      "url": "https://pascolibraries.libnet.info/event/16080627"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "English conversation for speakers of other languages. Practice your English speaking skills in a group on Zoom.",
+      "end": "2026-08-11T15:00:00+00:00",
+      "id": "pasco-libraries-16657982",
+      "latitude": null,
+      "location": "South Holiday Branch",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16657982"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T14:00:00+00:00",
+      "title": "English Conversation Group - South Holiday",
+      "url": "https://pascolibraries.libnet.info/event/16657982"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Zephyrhills",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join us on the second and fourth Tuesday of each month for Tween/Teen Gaming! Recommended for ages 9 and up. Space is limited but registration is not required.",
+      "end": "2026-08-11T16:00:00+00:00",
+      "id": "pasco-libraries-15954038",
+      "latitude": null,
+      "location": "Zephyrhills Public Library, Meeting Room",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "15954038"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T15:00:00+00:00",
+      "title": "Tween/Teen Gaming!",
+      "url": "https://pascolibraries.libnet.info/event/15954038"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join our volunteers for chess. This recreational club is open to all ages and abilities. Chess sets are provided or you are welcome to bring your own. Minors must be accompanied by a parent/guardian.",
+      "end": "2026-08-11T18:00:00+00:00",
+      "id": "pasco-libraries-16584607",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Multipurpose Room C - Adult",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16584607"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T16:00:00+00:00",
+      "title": "Chess Club",
+      "url": "https://pascolibraries.libnet.info/event/16584607"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Hosted at Pasco Fine Art Center. Rediscover your creativity and build real art skills in a relaxed, supportive studio setting. Explore new materials each month and grow as an artist at your own pace.",
+      "end": "2026-08-11T19:30:00+00:00",
+      "id": "pasco-libraries-16866446",
+      "latitude": null,
+      "location": "Pasco Fine Art Center",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16866446"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T17:30:00+00:00",
+      "title": "Adult Art Lab : Acrylic Painting with Palette Knives",
+      "url": "https://pascolibraries.libnet.info/event/16866446"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "Land O'Lakes",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "Join us for this yoga class with Willow Marcotte. This class is for adults at all skill levels. This program is sponsored by the Friends of the Land O' Lakes Library.",
+      "end": "2026-08-11T19:00:00+00:00",
+      "id": "pasco-libraries-16723702",
+      "latitude": null,
+      "location": "Land O'Lakes Branch, Multipurpose Room A - Children's Storytime",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "16723702"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T18:00:00+00:00",
+      "title": "Yoga",
+      "url": "https://pascolibraries.libnet.info/event/16723702"
     },
     {
       "all_day": true,
@@ -6071,6 +7039,25 @@
       "source": "New Port Richey library",
       "source_kind": "library",
       "start": "2026-08-10T00:00:00-04:00",
+      "title": "Octopus Scavenger Hunt",
+      "url": "https://newportrichey.librarycalendar.com/event/octopus-scavenger-hunt-30678"
+    },
+    {
+      "all_day": true,
+      "category": "Library",
+      "city": "New Port Richey",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "",
+      "end": "2026-08-11T23:59:00-04:00",
+      "id": "new-port-richey-library-bbce47ff02b81d5b",
+      "latitude": null,
+      "location": "New Port Richey Public Library",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {},
+      "source": "New Port Richey library",
+      "source_kind": "library",
+      "start": "2026-08-11T00:00:00-04:00",
       "title": "Octopus Scavenger Hunt",
       "url": "https://newportrichey.librarycalendar.com/event/octopus-scavenger-hunt-30678"
     },
@@ -6530,22 +7517,45 @@
     },
     {
       "all_day": false,
-      "category": "Recurring",
-      "city": "Clearwater",
-      "cost_note": "Configured recurring free/no-cover event",
-      "description": "Free nightly sunset festival with artisans and street performers; weather permitting. Vendor purchases optional.",
-      "end": "2026-08-02T22:00:00-04:00",
-      "id": "recurring-sunsets-at-pier-60-2026-08-02",
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Included only for public meetings or free-marked official listings",
+      "description": "Charter Review Commission Meeting 27.9476546, -82.4572297 Karencia C. Fri, 01/23/2026 - 05:13 pm Event Status Scheduled When Tue, Aug 11 2026 , 6pm Add to Calendar Google Outlook iCal CHARTER REVIEW ADVISORY...",
+      "end": null,
+      "id": "city-of-tampa-c2d14c041871dae5",
       "latitude": null,
-      "location": "Pier 60, Clearwater Beach",
+      "location": "Tampa",
       "longitude": null,
       "needs_review": false,
-      "raw": {},
-      "source": "Recurring local events",
+      "raw": {
+        "full_text": "Charter Review Commission Meeting 27.9476546, -82.4572297 Karencia C. Fri, 01/23/2026 - 05:13 pm Event Status Scheduled When Tue, Aug 11 2026 , 6pm Add to Calendar Google Outlook iCal CHARTER REVIEW ADVISORY COMMISSION MEETING Date: Tuesday, August 11, 2026 Time: 6:00pm to 9:00pm Location: Old City Hall \u2013 Sister Cities Room 315 East Kennedy Boulevard Tampa, Florida 33602 Facilitator Robert Hendrickson will facilitate meetings of the 2025 Charter Review Advisory Commission. The commission\u2019s purpose is to review the Tampa Home Rule Charter of 1975, as amended, and propose any amendments or revisions by majority vote of the Commission, and present a report with their recommendations to City Council, which may by two-thirds vote of City Council be placed on the ballot for a vote on March 2, 2027. Meetings are scheduled monthly for the 2 nd and 4 th Tuesday. Get Directions Tampa Old City Hall - Sister Cities Room 315 East Kennedy Boulevard Tampa , FL 33602 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Tampa Downtown Partnership Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No Contact Information Contact: Karencia Ciagala at (813) 274-8397 Karencia.ciagala@tampagov.net"
+      },
+      "source": "City of Tampa",
       "source_kind": "event",
-      "start": "2026-08-02T18:00:00-04:00",
-      "title": "Sunsets at Pier 60",
-      "url": "https://www.sunsetsatpier60.com/"
+      "start": "2026-08-11T22:00:00+00:00",
+      "title": "Charter Review Commission Meeting",
+      "url": "https://www.tampa.gov/events/charter-review-commission-meeting/180091"
+    },
+    {
+      "all_day": false,
+      "category": "Official calendar",
+      "city": "Tampa",
+      "cost_note": "Included only for public meetings or free-marked official listings",
+      "description": "South Howard Flood Relief Project Open House 27.9342468, -82.4946285 Janelle M. Tue, 07/28/2026 - 11:15 am Event Status Scheduled Attachments South Howard Flood Relief Open House Meeting Detail Flyer When Tue, Aug 11...",
+      "end": "2026-08-12T00:00:00+00:00",
+      "id": "city-of-tampa-e073e895ef736d23",
+      "latitude": null,
+      "location": "Tampa",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "full_text": "South Howard Flood Relief Project Open House 27.9342468, -82.4946285 Janelle M. Tue, 07/28/2026 - 11:15 am Event Status Scheduled Attachments South Howard Flood Relief Open House Meeting Detail Flyer When Tue, Aug 11 2026 , 6 - 8pm Add to Calendar Google Outlook iCal \u26c8\ufe0fCOMING UP: Join us for a South Howard Flood Relief Project Open House Meeting\u26c8\ufe0f We hope you're able to join us for a South Howard Flood Relief Project OPEN HOUSE on Tuesday, August 11th, from 6 - 8 PM at Bayshore Baptist Church. This is another great opportunity for residents, businesses, and stakeholders to connect directly with the design-build team working on the project. Stop by to learn more about what\u2019s being planned, see renderings, share your feedback, and have your questions answered one-on-one by the experts. We'll see you there! To learn more, visit: SHstormwater.com Get Directions Bayshore Baptist Church 3111 West Morrison Avenue Tampa , FL 33629 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Neighborhood Meetings and Outreach Event Attendance Mode In-Person (Offline) Event Neighborhood Parkland Estates Free/Open to the public? Yes Event Links Project Website Event Collection Neighborhood Events Pre-registration Required No"
+      },
+      "source": "City of Tampa",
+      "source_kind": "event",
+      "start": "2026-08-11T22:00:00+00:00",
+      "title": "South Howard Flood Relief Project Open House",
+      "url": "https://www.tampa.gov/events/south-howard-flood-relief-project-open-house/193081"
     },
     {
       "all_day": false,
@@ -6698,123 +7708,135 @@
       "start": "2026-08-10T18:00:00-04:00",
       "title": "Sunsets at Pier 60",
       "url": "https://www.sunsetsatpier60.com/"
+    },
+    {
+      "all_day": false,
+      "category": "Recurring",
+      "city": "Clearwater",
+      "cost_note": "Configured recurring free/no-cover event",
+      "description": "Free nightly sunset festival with artisans and street performers; weather permitting. Vendor purchases optional.",
+      "end": "2026-08-11T22:00:00-04:00",
+      "id": "recurring-sunsets-at-pier-60-2026-08-11",
+      "latitude": null,
+      "location": "Pier 60, Clearwater Beach",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {},
+      "source": "Recurring local events",
+      "source_kind": "event",
+      "start": "2026-08-11T18:00:00-04:00",
+      "title": "Sunsets at Pier 60",
+      "url": "https://www.sunsetsatpier60.com/"
     }
   ],
-  "generated_at": "2026-08-02T22:36:46.237199-04:00",
+  "generated_at": "2026-08-03T05:40:34.393329-04:00",
   "include_search": true,
-  "start": "2026-08-02",
+  "start": "2026-08-03",
   "statuses": [
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite tampa",
-      "url": "https://www.eventbrite.com/d/fl--tampa/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--tampa/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite st-petersburg",
-      "url": "https://www.eventbrite.com/d/fl--st-petersburg/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--st-petersburg/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite clearwater",
-      "url": "https://www.eventbrite.com/d/fl--clearwater/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--clearwater/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite brandon",
-      "url": "https://www.eventbrite.com/d/fl--brandon/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--brandon/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite lutz",
-      "url": "https://www.eventbrite.com/d/fl--lutz/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--lutz/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite wesley-chapel",
-      "url": "https://www.eventbrite.com/d/fl--wesley-chapel/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--wesley-chapel/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite dade-city",
-      "url": "https://www.eventbrite.com/d/fl--dade-city/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--dade-city/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite zephyrhills",
-      "url": "https://www.eventbrite.com/d/fl--zephyrhills/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--zephyrhills/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite san-antonio",
-      "url": "https://www.eventbrite.com/d/fl--san-antonio/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--san-antonio/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite land-o-lakes",
-      "url": "https://www.eventbrite.com/d/fl--land-o-lakes/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--land-o-lakes/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite odessa",
-      "url": "https://www.eventbrite.com/d/fl--odessa/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--odessa/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite trinity",
-      "url": "https://www.eventbrite.com/d/fl--trinity/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--trinity/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
       "count": 0,
       "message": "HTTP Error 405: Not Allowed",
       "ok": false,
       "source": "Eventbrite new-port-richey",
-      "url": "https://www.eventbrite.com/d/fl--new-port-richey/events/?start_date=2026-08-10&end_date=2026-08-10&page=1&price=free"
+      "url": "https://www.eventbrite.com/d/fl--new-port-richey/events/?start_date=2026-08-11&end_date=2026-08-11&page=1&price=free"
     },
     {
-      "count": 187,
+      "count": 216,
       "message": "Fetched structured library calendar API",
       "ok": true,
       "source": "Hillsborough libraries",
       "url": ""
     },
     {
-      "count": 89,
+      "count": 107,
       "message": "Fetched structured library calendar API",
       "ok": true,
       "source": "Pasco libraries",
       "url": ""
-    },
-    {
-      "count": 0,
-      "message": "Fetched iCal feed for 2026-08-02",
-      "ok": true,
-      "source": "Pinellas libraries",
-      "url": "https://pplc.us/events/2026-08-02/?ical=1"
     },
     {
       "count": 0,
@@ -6873,11 +7895,11 @@
       "url": "https://pplc.us/events/2026-08-10/?ical=1"
     },
     {
-      "count": 1,
-      "message": "Parsed event list for 2026-08-02",
+      "count": 0,
+      "message": "Fetched iCal feed for 2026-08-11",
       "ok": true,
-      "source": "New Port Richey library",
-      "url": "https://newportrichey.librarycalendar.com/events/list?start=2026-08-02&end=2026-08-02"
+      "source": "Pinellas libraries",
+      "url": "https://pplc.us/events/2026-08-11/?ical=1"
     },
     {
       "count": 1,
@@ -6936,6 +7958,13 @@
       "url": "https://newportrichey.librarycalendar.com/events/list?start=2026-08-10&end=2026-08-10"
     },
     {
+      "count": 1,
+      "message": "Parsed event list for 2026-08-11",
+      "ok": true,
+      "source": "New Port Richey library",
+      "url": "https://newportrichey.librarycalendar.com/events/list?start=2026-08-11&end=2026-08-11"
+    },
+    {
       "count": 4,
       "message": "Parsed event JSON-LD",
       "ok": true,
@@ -6943,7 +7972,7 @@
       "url": "https://www.tampasdowntown.com/all-events/"
     },
     {
-      "count": 18,
+      "count": 20,
       "message": "Parsed calendar RSS",
       "ok": true,
       "source": "City of Tampa",
@@ -6961,13 +7990,6 @@
       "message": "Loaded manual/social source config",
       "ok": true,
       "source": "Manual/social sources",
-      "url": ""
-    },
-    {
-      "count": 0,
-      "message": "Fetched Bing/RSS public search leads for 2026-08-02",
-      "ok": true,
-      "source": "Web search leads",
       "url": ""
     },
     {
@@ -7022,6 +8044,13 @@
     {
       "count": 0,
       "message": "Fetched Bing/RSS public search leads for 2026-08-10",
+      "ok": true,
+      "source": "Web search leads",
+      "url": ""
+    },
+    {
+      "count": 0,
+      "message": "Fetched Bing/RSS public search leads for 2026-08-11",
       "ok": true,
       "source": "Web search leads",
       "url": ""
