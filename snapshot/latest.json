@@ -4574,7 +4574,7 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own UFO's.",
+      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own Bag Tags.",
       "end": "2026-08-03T19:00:00+00:00",
       "id": "pasco-libraries-17102854",
       "latitude": null,
@@ -4587,7 +4587,7 @@
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-03T10:00:00+00:00",
-      "title": "Ingenuity Lab: [This week's theme]: Grades K-5",
+      "title": "Ingenuity Lab: Bag Tags: Grades K-5",
       "url": "https://pascolibraries.libnet.info/event/17102854"
     },
     {
@@ -4973,7 +4973,7 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own UFO's.",
+      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own Bag Tags.",
       "end": "2026-08-04T17:00:00+00:00",
       "id": "pasco-libraries-17102855",
       "latitude": null,
@@ -4986,7 +4986,7 @@
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-04T14:00:00+00:00",
-      "title": "Ingenuity Lab: [This week's theme]: Grades K-5",
+      "title": "Ingenuity Lab: Bag Tags: Grades K-5",
       "url": "https://pascolibraries.libnet.info/event/17102855"
     },
     {
@@ -5330,7 +5330,7 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own UFO's.",
+      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own Bag Tags.",
       "end": "2026-08-05T19:00:00+00:00",
       "id": "pasco-libraries-17102856",
       "latitude": null,
@@ -5343,7 +5343,7 @@
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-05T14:00:00+00:00",
-      "title": "Ingenuity Lab: [This week's theme]: Grades K-5",
+      "title": "Ingenuity Lab: Bag Tags: Grades K-5",
       "url": "https://pascolibraries.libnet.info/event/17102856"
     },
     {
@@ -5603,7 +5603,7 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own UFO's.",
+      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own Bag Tags.",
       "end": "2026-08-06T17:00:00+00:00",
       "id": "pasco-libraries-17102857",
       "latitude": null,
@@ -5616,7 +5616,7 @@
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-06T10:00:00+00:00",
-      "title": "Ingenuity Lab: [This week's theme]: Grades K-5",
+      "title": "Ingenuity Lab: Bag Tags: Grades K-5",
       "url": "https://pascolibraries.libnet.info/event/17102857"
     },
     {
@@ -5939,7 +5939,7 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own UFO's.",
+      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own Bag Tags.",
       "end": "2026-08-07T16:00:00+00:00",
       "id": "pasco-libraries-17102858",
       "latitude": null,
@@ -5952,7 +5952,7 @@
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-07T10:00:00+00:00",
-      "title": "Ingenuity Lab: [This week's theme]: Grades K-5",
+      "title": "Ingenuity Lab: Bag Tags: Grades K-5",
       "url": "https://pascolibraries.libnet.info/event/17102858"
     },
     {
@@ -6191,7 +6191,7 @@
       "category": "Library",
       "city": "",
       "cost_note": "Library event; included unless source text indicates a fee",
-      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own UFO's.",
+      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are creating our own Bag Tags.",
       "end": "2026-08-08T16:00:00+00:00",
       "id": "pasco-libraries-17102859",
       "latitude": null,
@@ -6204,7 +6204,7 @@
       "source": "Pasco libraries",
       "source_kind": "library",
       "start": "2026-08-08T10:00:00+00:00",
-      "title": "Ingenuity Lab: [This week's theme]: Grades K-5",
+      "title": "Ingenuity Lab: Bag Tags: Grades K-5",
       "url": "https://pascolibraries.libnet.info/event/17102859"
     },
     {
@@ -6332,6 +6332,27 @@
       "start": "2026-08-10T10:00:00+00:00",
       "title": "Handwork Circle",
       "url": "https://pascolibraries.libnet.info/event/16806881"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are designing our own tote bags.",
+      "end": "2026-08-10T19:00:00+00:00",
+      "id": "pasco-libraries-17105424",
+      "latitude": null,
+      "location": "Hugh Embry Branch, Makerspace",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "17105424"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-10T10:00:00+00:00",
+      "title": "Ingenuity Lab: Tote Bags: Grades K-5",
+      "url": "https://pascolibraries.libnet.info/event/17105424"
     },
     {
       "all_day": false,
@@ -6840,6 +6861,27 @@
     {
       "all_day": false,
       "category": "Library",
+      "city": "",
+      "cost_note": "Library event; included unless source text indicates a fee",
+      "description": "The makerspace at Hugh Embry Library is set up with materials and activities that encourage children to design, create and explore. This week, we are designing our own tote bags.",
+      "end": "2026-08-11T17:00:00+00:00",
+      "id": "pasco-libraries-17105425",
+      "latitude": null,
+      "location": "Hugh Embry Branch, Makerspace",
+      "longitude": null,
+      "needs_review": false,
+      "raw": {
+        "library_event_id": "17105425"
+      },
+      "source": "Pasco libraries",
+      "source_kind": "library",
+      "start": "2026-08-11T14:00:00+00:00",
+      "title": "Ingenuity Lab: Tote Bags: Grades K-5",
+      "url": "https://pascolibraries.libnet.info/event/17105425"
+    },
+    {
+      "all_day": false,
+      "category": "Library",
       "city": "Zephyrhills",
       "cost_note": "Library event; included unless source text indicates a fee",
       "description": "Join us on the second and fourth Tuesday of each month for Tween/Teen Gaming! Recommended for ages 9 and up. Space is limited but registration is not required.",
@@ -7192,25 +7234,6 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Official calendar event; excluded if source text indicates a required fee",
-      "description": "HIIT in the Park will be joining our lineup of FREE Community Fitness classes starting tonight at 6pm! Work up a sweat every Monday in Tampa's Downtown with instructors from Crunch Fitness in Curtis Hixon Park!",
-      "end": "2026-08-03T19:00:00+00:00",
-      "id": "tampa-downtown-partnership-346cde6b8866fb73",
-      "latitude": null,
-      "location": "Curtis Hixon Waterfront Park, 600 N Ashley Dr, Tampa, FL 33602",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {},
-      "source": "Tampa Downtown Partnership",
-      "source_kind": "event",
-      "start": "2026-08-03T18:00:00+00:00",
-      "title": "HIIT in the Park",
-      "url": "https://www.tampasdowntown.com/events/hiit-in-the-park-5-114-833-441-630-216-762-322-481-977-932-357-639-637-937-705-583-986-763-137-607-625-339-877-460-119-343-552-215-648/?occurrence=2026-08-03"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Official calendar event; excluded if source text indicates a required fee",
       "description": "Join us for Zumba in the Park with Tampa Metropolitan YMCA at 6:00pm! This Latin-inspired dance and a cardio workout will be held in Curtis Hixon Park near the fountains.",
       "end": "2026-08-04T19:00:00+00:00",
       "id": "tampa-downtown-partnership-f4e6fffd55c8a3d2",
@@ -7267,22 +7290,20 @@
       "all_day": false,
       "category": "Official calendar",
       "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Architectural Review Commission 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 05:01 pm Event Status Scheduled When Mon, Aug 3 2026 , 5:30pm Add to Calendar Google Outlook iCal CITY OF TAMPA ARCHITECTURAL...",
-      "end": null,
-      "id": "city-of-tampa-9295d24e39d42823",
+      "cost_note": "Official calendar event; excluded if source text indicates a required fee",
+      "description": "HIIT in the Park will be joining our lineup of FREE Community Fitness classes starting tonight at 6pm! Work up a sweat every Monday in Tampa's Downtown with instructors from Crunch Fitness in Curtis Hixon Park!",
+      "end": "2026-08-10T19:00:00+00:00",
+      "id": "tampa-downtown-partnership-e1c06ec3dbcafea1",
       "latitude": null,
-      "location": "Tampa",
+      "location": "Curtis Hixon Waterfront Park, 600 N Ashley Dr, Tampa, FL 33602",
       "longitude": null,
       "needs_review": false,
-      "raw": {
-        "full_text": "Architectural Review Commission 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 05:01 pm Event Status Scheduled When Mon, Aug 3 2026 , 5:30pm Add to Calendar Google Outlook iCal CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC HEARINGS Date(s) and Time: Monday, August 3, 2026, at 5:30 P.M. Wednesday, August 5, 2026, at 5:30 P.M. Monday - Meeting Location: Old City Hall, 315 E. Kennedy Boulevard, 2nd Floor, Tampa, FL 33602 Wednesday - Meeting Location: Old City Hall, 315 E. Kennedy Boulevard, City Council Chambers, 3rd Floor, Tampa, FL 33602 Members of the public who do not wish to appear in person may submit written comments by mail to Architectural Review & Historic Preservation, 2555 E. Hanna Avenue, Tampa, FL 3310, or by e-mail to HistoricPreservation@tampagov.net. All written comments must be received no later than 24 hours prior to the scheduled meeting in order to be distributed to the Commission members and to be included in the official meeting record. To check the postponement or cancellation status of the public hearing, please contact our office at 813- 274-3100, option #3. www.tampagov.net/historic-preservation NOTE: ALL MEETINGS ARE OPEN TO THE PUBLIC Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
-      },
-      "source": "City of Tampa",
+      "raw": {},
+      "source": "Tampa Downtown Partnership",
       "source_kind": "event",
-      "start": "2026-08-03T21:30:00+00:00",
-      "title": "Architectural Review Commission",
-      "url": "https://www.tampa.gov/events/architectural-review-commission/193011"
+      "start": "2026-08-10T18:00:00+00:00",
+      "title": "HIIT in the Park",
+      "url": "https://www.tampasdowntown.com/events/hiit-in-the-park-5-114-833-441-630-216-762-322-481-977-932-357-639-637-937-705-583-986-763-137-607-625-339-877-460-119-343-552-215-648/?occurrence=2026-08-10"
     },
     {
       "all_day": false,
@@ -7834,7 +7855,7 @@
       "url": "https://www.sunsetsatpier60.com/"
     }
   ],
-  "generated_at": "2026-08-03T15:33:02.633511-04:00",
+  "generated_at": "2026-08-03T22:16:35.988536-04:00",
   "include_search": true,
   "start": "2026-08-03",
   "statuses": [
@@ -7937,7 +7958,7 @@
       "url": ""
     },
     {
-      "count": 113,
+      "count": 115,
       "message": "Fetched structured library calendar API",
       "ok": true,
       "source": "Pasco libraries",
@@ -7945,64 +7966,64 @@
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-03",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-03/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-04",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-04/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-05",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-05/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-06",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-06/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-07",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-07/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-08",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-08/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-09",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-09/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-10",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-10/?ical=1"
     },
     {
       "count": 0,
-      "message": "<urlopen error timed out>",
-      "ok": false,
+      "message": "Fetched iCal feed for 2026-08-11",
+      "ok": true,
       "source": "Pinellas libraries",
       "url": "https://pplc.us/events/2026-08-11/?ical=1"
     },
@@ -8077,7 +8098,7 @@
       "url": "https://www.tampasdowntown.com/all-events/"
     },
     {
-      "count": 19,
+      "count": 18,
       "message": "Parsed calendar RSS",
       "ok": true,
       "source": "City of Tampa",
