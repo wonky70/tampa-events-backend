@@ -7425,25 +7425,6 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Official calendar event; excluded if source text indicates a required fee",
-      "description": "Join OwnerRez Roadshow, a FREE full-day event bringing together vacation rental owners, property managers, and industry partners for a day of education, networking, and community building. The day will feature talks...",
-      "end": "2026-08-05T00:00:00+00:00",
-      "id": "tampa-downtown-partnership-30c31f13d419a5c9",
-      "latitude": null,
-      "location": "USF Health CAMLS, USF Health CAMLS, South Franklin Street, Tampa, FL",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {},
-      "source": "Tampa Downtown Partnership",
-      "source_kind": "event",
-      "start": "2026-08-05T00:00:00+00:00",
-      "title": "OwnerRez Roadshow \u2013 Tampa, FL",
-      "url": "https://www.eventbrite.com/e/ownerrez-roadshow-tampa-fl-tickets-1992166655093"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Official calendar event; excluded if source text indicates a required fee",
       "description": "Yoga in the Park is back! Join us for Yoga in the Park every Sunday from 6-7 pm, instructed by Latonyia Sumpter with Empowered Wellbeing! This class is located in Curtis Hixon Park, welcomes all yogis, beginner or...",
       "end": "2026-08-09T20:00:00+00:00",
       "id": "tampa-downtown-partnership-9cc475f98500ccc7",
@@ -7501,19 +7482,19 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Mayor\u2019s Food Truck Fiesta 27.947953, -82.4584956 WebformCreator (Bot) Tue, 01/20/2026 - 09:37 am Event Status Scheduled Attachments food-truck-fiesta-january-2026-3.jpg When Wed, Aug 5 2026 , 11am - 2pm Add to...",
-      "end": "2026-08-05T18:00:00+00:00",
-      "id": "city-of-tampa-56b2fd32fa6dd5d9",
+      "description": "Mayor\u2019s Food Truck Fiesta 27.947953, -82.4584956 WebformCreator (Bot) Tue, 01/20/2026 - 09:37 am Event Status Scheduled Attachments food-truck-fiesta-january-2026-3.jpg When Wed, Aug 5 2026 , 11am - 2pm Let\u2019s fiesta!...",
+      "end": null,
+      "id": "city-of-tampa-8a977557a74537f1",
       "latitude": null,
       "location": "Tampa",
       "longitude": null,
       "needs_review": false,
       "raw": {
-        "full_text": "Mayor\u2019s Food Truck Fiesta 27.947953, -82.4584956 WebformCreator (Bot) Tue, 01/20/2026 - 09:37 am Event Status Scheduled Attachments food-truck-fiesta-january-2026-3.jpg When Wed, Aug 5 2026 , 11am - 2pm Add to Calendar Google Outlook iCal Let\u2019s fiesta! Back by popular demand (and hunger), the Mayor\u2019s Food Truck Fiesta is rolling in to Lykes Gaslight Park the first Wednesday of every month from 11am to 2pm. Join us for truckloads of local favorites and food that goes the extra mile. (Literally!) Thank you to the City of Tampa for their sponsorship of this event. (Interested in becoming a vendor? Contact Tampa Downtown Partnership!) - - - - - - - - - - \u00a1V\u00e1monos de fiesta! Debido a su popularidad (y hambre), el Mayor\u2019s Food Truck Fiesta va a hacer una parada en el parque de Lykes Gaslight el primer mi\u00e9rcoles de cada mes desde las 11am a las 2pm. Acomp\u00e1\u00f1anos y disfruta de los mejores sabores sobre ruedas de la ciudad. Gracias a la Ciudad de Tampa por patrocinar el evento. (\u00bfTienes un food truck y quieres participar en el evento? Contacta a Tampa Downtown Partnership!) Get Directions 241-, 263 E Madison St Tampa , FL 33602 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: Food and Drink City Meetings Outdoors and Recreation Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Links Mayor\u2019s Food Truck Fiesta Event Collection Neighborhood Events Pre-registration Required No"
+        "full_text": "Mayor\u2019s Food Truck Fiesta 27.947953, -82.4584956 WebformCreator (Bot) Tue, 01/20/2026 - 09:37 am Event Status Scheduled Attachments food-truck-fiesta-january-2026-3.jpg When Wed, Aug 5 2026 , 11am - 2pm Let\u2019s fiesta! Back by popular demand (and hunger), the Mayor\u2019s Food Truck Fiesta is rolling in to Lykes Gaslight Park the first Wednesday of every month from 11am to 2pm. Join us for truckloads of local favorites and food that goes the extra mile. (Literally!) Thank you to the City of Tampa for their sponsorship of this event. (Interested in becoming a vendor? Contact Tampa Downtown Partnership!) - - - - - - - - - - \u00a1V\u00e1monos de fiesta! Debido a su popularidad (y hambre), el Mayor\u2019s Food Truck Fiesta va a hacer una parada en el parque de Lykes Gaslight el primer mi\u00e9rcoles de cada mes desde las 11am a las 2pm. Acomp\u00e1\u00f1anos y disfruta de los mejores sabores sobre ruedas de la ciudad. Gracias a la Ciudad de Tampa por patrocinar el evento. (\u00bfTienes un food truck y quieres participar en el evento? Contacta a Tampa Downtown Partnership!) Get Directions 241-, 263 E Madison St Tampa , FL 33602 United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: Food and Drink City Meetings Outdoors and Recreation Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Links Mayor\u2019s Food Truck Fiesta Event Collection Neighborhood Events Pre-registration Required No"
       },
       "source": "City of Tampa",
       "source_kind": "event",
-      "start": "2026-08-05T15:00:00+00:00",
+      "start": "2026-08-05T18:00:00+00:00",
       "title": "Mayor\u2019s Food Truck Fiesta",
       "url": "https://www.tampa.gov/events/mayors-food-truck-fiesta/179626"
     },
@@ -7537,90 +7518,6 @@
       "start": "2026-08-05T13:00:00+00:00",
       "title": "Public Art Committee",
       "url": "https://www.tampa.gov/events/public-art-committee/193066"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Architectural Review Commission 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 05:02 pm Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CITY OF TAMPA ARCHITECTURAL...",
-      "end": null,
-      "id": "city-of-tampa-e87e475190f81cfc",
-      "latitude": null,
-      "location": "Tampa",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "full_text": "Architectural Review Commission 27.9516896, -82.4587527 Charline S. Fri, 07/24/2026 - 05:02 pm Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC HEARINGS Date(s) and Time: Monday, August 3, 2026, at 5:30 P.M. Wednesday, August 5, 2026, at 5:30 P.M. Monday - Meeting Location: Old City Hall, 315 E. Kennedy Boulevard, 2nd Floor, Tampa, FL 33602 Wednesday - Meeting Location: Old City Hall, 315 E. Kennedy Boulevard, City Council Chambers, 3rd Floor, Tampa, FL 33602 Members of the public who do not wish to appear in person may submit written comments by mail to Architectural Review & Historic Preservation, 2555 E. Hanna Avenue, Tampa, FL 3310, or by e-mail to HistoricPreservation@tampagov.net. All written comments must be received no later than 24 hours prior to the scheduled meeting in order to be distributed to the Commission members and to be included in the official meeting record. To check the postponement or cancellation status of the public hearing, please contact our office at 813- 274-3100, option #3. www.tampagov.net/historic-preservation NOTE: ALL MEETINGS ARE OPEN TO THE PUBLIC Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
-      },
-      "source": "City of Tampa",
-      "source_kind": "event",
-      "start": "2026-08-05T21:30:00+00:00",
-      "title": "Architectural Review Commission",
-      "url": "https://www.tampa.gov/events/architectural-review-commission/193016"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Drew Park Community Advisory Committee 27.9516896, -82.4587527 Charline S. Wed, 07/22/2026 - 05:20 pm Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal DREW PARK COMMUNITY...",
-      "end": null,
-      "id": "city-of-tampa-f6edb6ddd212a5f9",
-      "latitude": null,
-      "location": "Tampa",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "full_text": "Drew Park Community Advisory Committee 27.9516896, -82.4587527 Charline S. Wed, 07/22/2026 - 05:20 pm Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal DREW PARK COMMUNITY ADVISORY COMMITTEE FOR THE DREW PARK COMMUNITY REDEVELOPMENT AREA NOTICE OF PUBLIC MEETING Dates: Wednesday, August 5, 2026 Time: 5:30 p.m. Location: Hillsborough Community College, Dale Mabry Campus Student Services Building, Room DSTU 108 4001 West Tampa Bay Boulevard Tampa, FL 33614 Agenda: Please contact Felix Nunez at (813) 242-3818 or at Felix.Nunez@tampagov.net Teams: Microsoft Teams Need help? Join the meeting now Meeting ID: 221 950 675 383 05 Passcode: 4iu2sT6J Dial in by phone +1 941-263-1615,,721123727# United States, Sarasota Find a local number Phone conference ID: 721 123 727# The purpose of this public meeting of the Drew Park Community Advisory Committee (\"CAC\") is to discuss and make recommendations regarding Community Redevelopment Activities in the Drew Park Community Redevelopment Area for consideration by the City of Tampa Community Redevelopment Agency (\"CRA\"). In accordance with the Americans with Disabilities Act (\"ADA\") and Section 286.26, Florida Statutes, persons with disabilities needing a reasonable accommodation to participate in this public hearing or meeting should contact the City of Tampa's ADA Coordinator at least 48 hours prior to the proceeding. The ADA Coordinator may be contacted via phone at 813-274-3964, email at TampaADA@tampagov.net, or by submitting an ADA - Accommodations Request form available online at tampagov.net/ADARequest. Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Neighborhood Meetings and Outreach Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
-      },
-      "source": "City of Tampa",
-      "source_kind": "event",
-      "start": "2026-08-05T21:30:00+00:00",
-      "title": "Drew Park Community Advisory Committee",
-      "url": "https://www.tampa.gov/events/drew-park-community-advisory-committee/192936"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Community Benefits Advisory Council 27.9516896, -82.4587527 Charline S. Wed, 07/29/2026 - 08:31 am Event Status Scheduled When Wed, Aug 5 2026 , 3:30pm Add to Calendar Google Outlook iCal COMMUNITY BENEFITS ADVISORY...",
-      "end": null,
-      "id": "city-of-tampa-be9be1b72ecd294d",
-      "latitude": null,
-      "location": "Tampa",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "full_text": "Community Benefits Advisory Council 27.9516896, -82.4587527 Charline S. Wed, 07/29/2026 - 08:31 am Event Status Scheduled When Wed, Aug 5 2026 , 3:30pm Add to Calendar Google Outlook iCal COMMUNITY BENEFITS ADVISORY COUNCIL NOTICE OF PUBLIC MEETING DATE: August 5, 2026 TIME: 3:30 p.m. LOCATION: Microsoft Teams MEETING PURPOSE: The purpose of this public meeting of the Community Benefits Advisory Council (\"CBAC\") is to review and approve the minutes from the CBAC meeting held on July 15, 2026. The Community Benefits Agreement will not be discussed or considered for approval during this meeting. VIRTUAL PARTICIPATION OPTION Individuals who are unable to attend in person may participate virtually using the Microsoft Teams information below: Join: https://teams.microsoft.com/meet/227653878551304?p=DUFSNRZDn8CQYWFe06 Meeting ID: 227 653 878 551 304 Passcode: qY3JK3Qz Dial in by phone +1 941-263-1615,,810083981# United States, Sarasota Find a local number Phone conference ID: 810 083 981# AMERICANS WITH DISABILITIES ACT (ADA) Persons with disabilities who need an accommodation in order to participate in this meeting should contact the City of Tampa at least forty-eight (48) hours in advance of the meeting. ADDITIONAL INFORMATION: For additional information regarding this public meeting, please contact Amanda Alfarah at 813-274-5642. Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
-      },
-      "source": "City of Tampa",
-      "source_kind": "event",
-      "start": "2026-08-05T19:30:00+00:00",
-      "title": "Community Benefits Advisory Council",
-      "url": "https://www.tampa.gov/events/community-benefits-advisory-council/193121"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "CANCELLED - Channel District Community Advisory Committee 27.9516896, -82.4587527 Charline S. Tue, 07/21/2026 - 09:26 am Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CHANNEL...",
-      "end": null,
-      "id": "city-of-tampa-e8f6029d5aa06e97",
-      "latitude": null,
-      "location": "Tampa",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "full_text": "CANCELLED - Channel District Community Advisory Committee 27.9516896, -82.4587527 Charline S. Tue, 07/21/2026 - 09:26 am Event Status Scheduled When Wed, Aug 5 2026 , 5:30pm Add to Calendar Google Outlook iCal CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEE FOR THE CHANNEL DISTRICT COMMUNITY REDEVELOPMENT AREA NOTICE OF PUBLIC MEETING Date: Wednesday, August 5, 2026 Time: 5:30 pm Agenda: Please contact Courtney Orr at (813) 274-7937 or at Courtney.Orr@tampagov.net Teams: Microsoft Teams Need help? Join the meeting now Passcode: Td38DH6s Dial in by phone +1 941-263-1615,,681644055# United States, Sarasota Phone conference ID: 681 644 055# The purpose of this public meeting of the Channel District Community Advisory Committee (\"CAC\") is to discuss and make recommendations regarding Community Redevelopment Activities in the Channel District Community Redevelopment Area for consideration by the City of Tampa Community Redevelopment Agency (\"CRA\"). In accordance with the Americans with Disabilities Act (\"ADA\") and Section 286.26, Florida Statutes, persons with disabilities needing a reasonable accommodation to participate in this public hearing or meeting should contact the City of Tampa's ADA Coordinator at least 48 hours prior to the proceeding. The ADA Coordinator may be contacted via phone at 813-274-3964, email at TampaADA@tampagov.net, or by submitting an ADA - Accommodations Request form available online at tampagov.net/ADARequest. Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
-      },
-      "source": "City of Tampa",
-      "source_kind": "event",
-      "start": "2026-08-05T21:30:00+00:00",
-      "title": "CANCELLED - Channel District Community Advisory Committee",
-      "url": "https://www.tampa.gov/events/channel-district-community-advisory-committee/192876"
     },
     {
       "all_day": false,
@@ -8067,7 +7964,7 @@
       "url": "https://www.sunsetsatpier60.com/"
     }
   ],
-  "generated_at": "2026-08-05T15:27:21.399819-04:00",
+  "generated_at": "2026-08-05T22:24:05.412437-04:00",
   "include_search": true,
   "start": "2026-08-05",
   "statuses": [
@@ -8303,14 +8200,14 @@
       "url": "https://newportrichey.librarycalendar.com/events/list?start=2026-08-13&end=2026-08-13"
     },
     {
-      "count": 4,
+      "count": 3,
       "message": "Parsed event JSON-LD",
       "ok": true,
       "source": "Tampa Downtown Partnership",
       "url": "https://www.tampasdowntown.com/all-events/"
     },
     {
-      "count": 19,
+      "count": 15,
       "message": "Parsed calendar RSS",
       "ok": true,
       "source": "City of Tampa",
