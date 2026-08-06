@@ -10605,27 +10605,6 @@
       "category": "Official calendar",
       "city": "Tampa",
       "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "City Council Regular Agenda 27.9516896, -82.4587527 Charline S. Wed, 07/29/2026 - 08:45 am Event Status Scheduled When Thu, Aug 6 2026 , 9am Add to Calendar Google Outlook iCal NOTICE OF PUBLIC MEETING TAMPA CITY...",
-      "end": null,
-      "id": "city-of-tampa-8d403a59eac210f1",
-      "latitude": null,
-      "location": "Tampa",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "full_text": "City Council Regular Agenda 27.9516896, -82.4587527 Charline S. Wed, 07/29/2026 - 08:45 am Event Status Scheduled When Thu, Aug 6 2026 , 9am Add to Calendar Google Outlook iCal NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL REGULAR AGENDA Date: Thursday, August 6, 2026 Time: 9:00 AM Location: Old City Hall 315 E. Kennedy Blvd. Tampa FL 33602 Agenda: https://tampa.gov/agendas The public and citizens of the City of Tampa will be able to watch, listen or view this meeting on: Cable TV: Spectrum Channel 640 Frontier Channel 15 Internet: https://www.tampa.gov/livestream Members of the public can attend in person in City Council chambers in Old City Hall or virtually participate in this public meeting by using what is referred to by State of Florida statutes and rules as \"communications media technology\" (\"CMT\"). TO SPEAK REMOTELY DURING PUBLIC COMMENT WITH THE USE OF CMT PRE-REGISTRATION IS REQUIRED : Complete the form at https://www.tampa.gov/PublicComment AND state on the form under \"Request Type\" that you wish to speak live during the public comment period. You will then be contacted with additional instructions on how to participate live through the use of CMT. Registration for speaking remotely must be requested at least 24 hours prior to the meeting. TO PARTICIPATE REMOTELY IN PUBLIC HEARINGS USING CMT PRE-REGISTRATION IS REQUIRED: Comments specific to a public hearing will be heard when it appears on the agenda. Instructions for participating in quasi-judicial and legislative public hearings are available at: https://www.tampa.gov/document/instructions-participate-virtual-public-hearing-34621 Please note: In order to participate in quasi-judicial matters remotely via CMT, cell phones and smartphones are not compatible as they will not allow you to share your camera when connected. You must have access to a communications media device such as a tablet or a computer equipped with a camera and microphone that will enable you to be seen (video) and heard (audio) by the City Council and all other participants. Persons requiring help in accessing these means of public participation should call 813-274-8397 for assistance . Should any person desire to appeal any decision of the Tampa City Council with respect to any matter to be considered at this meeting, that person shall ensure that a verbatim record of the proceeding is made including all testimony and evidence upon which any appeal may be based ( F.S. 286.0105 ). In accordance with the Americans with..."
-      },
-      "source": "City of Tampa",
-      "source_kind": "event",
-      "start": "2026-08-06T13:00:00+00:00",
-      "title": "City Council Regular Agenda",
-      "url": "https://www.tampa.gov/events/city-council-regular-agenda/193136"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
       "description": "Channel District Art Selection Committee 27.9516896, -82.4587527 Charline S. Tue, 07/28/2026 - 08:49 am Event Status Scheduled When Thu, Aug 6 2026 , 4:30 - 6:30pm Add to Calendar Google Outlook iCal CHANNEL DISTRICT...",
       "end": "2026-08-06T22:30:00+00:00",
       "id": "city-of-tampa-e01aa50b8564dc93",
@@ -10641,27 +10620,6 @@
       "start": "2026-08-06T20:30:00+00:00",
       "title": "Channel District Art Selection Committee",
       "url": "https://www.tampa.gov/events/channel-district-art-selection-committee/193071"
-    },
-    {
-      "all_day": false,
-      "category": "Official calendar",
-      "city": "Tampa",
-      "cost_note": "Included only for public meetings or free-marked official listings",
-      "description": "Goal Setting Committee: Subcontracts 27.9516896, -82.4587527 Charline S. Tue, 08/04/2026 - 04:14 pm Event Status Scheduled When Thu, Aug 6 2026 , 3pm Add to Calendar Google Outlook iCal Public Meeting Notice GOAL...",
-      "end": null,
-      "id": "city-of-tampa-b761d8eff5ce4974",
-      "latitude": null,
-      "location": "Tampa",
-      "longitude": null,
-      "needs_review": false,
-      "raw": {
-        "full_text": "Goal Setting Committee: Subcontracts 27.9516896, -82.4587527 Charline S. Tue, 08/04/2026 - 04:14 pm Event Status Scheduled When Thu, Aug 6 2026 , 3pm Add to Calendar Google Outlook iCal Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Time & Date : 3:00 P.M. Thursday, Aug, 6th 2026 Location : 2nd Floor, Trophy Case Conference Room Hanna Avenue City Center 2555 E. Hanna Avenue Tampa, FL 33610 Topic : To review projects eligible for application of subcontract participation goals pursuant to the City of Tampa\u2019s Equal Business Opportunity Program. Contact : Jose Valdez at 813-274-5543 or Jose.Valdez@tampagov.net Note: All meetings are open to the public. Any person who decides to appeal any decision made with respect to any matter considered at this public hearing or meeting are advised, in accordance with Section 286.0105, Florida Statutes, that they will need a record of the proceedings, and for such purpose may need to hire a court reporter to ensure that a verbatim record of the proceeding is made, which record includes the testimony and evidence upon which the appeal is to be based. Get Directions Tampa , FL United States Header Image Display Random Photo Photo Group Events Off Type of Location Physical Address Event Tags: City Meetings Business and Trade Awareness and Social Justice Events Event Attendance Mode In-Person (Offline) Event Neighborhood Downtown River Arts Free/Open to the public? Yes Event Collection Public Meetings Pre-registration Required No"
-      },
-      "source": "City of Tampa",
-      "source_kind": "event",
-      "start": "2026-08-06T19:00:00+00:00",
-      "title": "Goal Setting Committee: Subcontracts",
-      "url": "https://www.tampa.gov/events/goal-setting-committee-subcontracts/193326"
     },
     {
       "all_day": false,
@@ -11066,7 +11024,7 @@
       "url": "https://www.sunsetsatpier60.com/"
     }
   ],
-  "generated_at": "2026-08-06T10:03:31.636356-04:00",
+  "generated_at": "2026-08-06T19:57:22.283048-04:00",
   "include_search": true,
   "start": "2026-08-06",
   "statuses": [
@@ -11309,7 +11267,7 @@
       "url": "https://www.tampasdowntown.com/all-events/"
     },
     {
-      "count": 15,
+      "count": 13,
       "message": "Parsed calendar RSS",
       "ok": true,
       "source": "City of Tampa",
